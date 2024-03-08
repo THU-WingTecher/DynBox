@@ -1,0 +1,5 @@
+Results of C2C on tar-czvf
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 531.0	 299.0	 266.0	 274.0	 1370.0
+Defense Rate, 0.9482142857142857, 0.8169398907103825, 0.6519607843137255, 0.6989795918367347, 0.7937427578215527
+Permitted Syscall Number of C2C on tar-czvf: 84

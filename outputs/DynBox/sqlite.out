@@ -1,0 +1,10 @@
+DynBox Whole Life Cycle on sqlite
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 314.57142857142856	 436.0	 564.7142857142857	 257.14285714285717	 1572.4285714285713
+Defense Rate, 0.9418306244653549, 1.0, 0.9669765166340508, 0.6912442396313364, 0.9110246647905976
+DynBox Serving Phase on sqlite
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 314.57142857142856	 436.0	 564.7142857142857	 257.14285714285717	 1572.4285714285713
+Defense Rate, 0.9418306244653549, 1.0, 0.9669765166340508, 0.6912442396313364, 0.9110246647905976
+Average Permitted Syscall Number of Whole Life Cycle on Application sqlite: 71.28571428571429
+Average Permitted Syscall Number of Serving Phase on Application sqlite: 71.28571428571429

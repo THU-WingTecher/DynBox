@@ -1,0 +1,10 @@
+DynBox Whole Life Cycle on httpd
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 327.0	 369.7142857142857	 459.57142857142856	 279.7142857142857	 1436.0
+Defense Rate, 0.9790419161676647, 0.8479685452162516, 0.7869373776908023, 0.7519201228878648, 0.831981460023175
+DynBox Serving Phase on httpd
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 334.0	 436.0	 475.0	 284.0	 1529.0
+Defense Rate, 1.0, 1.0, 0.8133561643835616, 0.7634408602150538, 0.8858632676709154
+Average Permitted Syscall Number of Whole Life Cycle on Application httpd: 64.57142857142857
+Average Permitted Syscall Number of Serving Phase on Application httpd: 60.2

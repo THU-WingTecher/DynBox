@@ -1,0 +1,5 @@
+Results of Chesnut on memcached
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 480.0	 313.0	 356.0	 146.0	 1295.0
+Defense Rate, 0.8571428571428571, 0.855191256830601, 0.8725490196078431, 0.37244897959183676, 0.7502896871378911
+Permitted Syscall Number of Chesnut on memcached: 89

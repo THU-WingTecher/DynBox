@@ -1,0 +1,5 @@
+Results of Chesnut on nginx
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 334.0	 263.0	 223.0	 103.0	 923.0
+Defense Rate, 0.5964285714285714, 0.7185792349726776, 0.5465686274509803, 0.2627551020408163, 0.5347624565469293
+Permitted Syscall Number of Chesnut on nginx: 104

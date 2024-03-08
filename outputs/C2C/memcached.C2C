@@ -1,0 +1,5 @@
+Results of C2C on memcached
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 479.0	 314.0	 365.0	 164.0	 1322.0
+Defense Rate, 0.8553571428571428, 0.8579234972677595, 0.8946078431372549, 0.41836734693877553, 0.7659327925840093
+Permitted Syscall Number of C2C on memcached: 83

@@ -1,0 +1,21 @@
+Runtime overhead on nginx 0.01825252617471054
+Runtime overhead on httpd 0.0013736332302563385
+Runtime overhead on redis 0.17440980843238876
+Runtime overhead on sqlite 0.007498402916614354
+Runtime overhead on memcached 0.051480870874414456
+Runtime overhead on bind 0.05218610278151114
+Runtime overhead on tar 0.04955533357112288
+Binary overhead on nginx 0.05528143996210626
+Binary overhead on httpd 0.04308878303846429
+Binary overhead on redis 0.0071675985625883785
+Binary overhead on sqlite 0.050734337802995154
+Binary overhead on memcached 0.017192109144542774
+Binary overhead on bind 0.02439496153254043
+Binary overhead on tar 0.09829938184399313
+Size of nginx 1216032
+Size of httpd 1787008
+Size of redis 1233328
+Size of sqlite 2103664
+Size of memcached 347136
+Size of bind 4053296
+Size of tar 1160872

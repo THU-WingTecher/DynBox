@@ -1,0 +1,5 @@
+Results of C2C on redis
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 486.0	 318.0	 292.0	 317.0	 1413.0
+Defense Rate, 0.8678571428571429, 0.8688524590163934, 0.7156862745098039, 0.8086734693877551, 0.8186558516801854
+Permitted Syscall Number of C2C on redis: 82

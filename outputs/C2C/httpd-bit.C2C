@@ -1,0 +1,5 @@
+Results of C2C on httpd-bit
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 479.0	 314.0	 355.0	 140.0	 1288.0
+Defense Rate, 0.8553571428571428, 0.8579234972677595, 0.8700980392156863, 0.35714285714285715, 0.746234067207416
+Permitted Syscall Number of C2C on httpd-bit: 97

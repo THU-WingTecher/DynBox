@@ -1,0 +1,5 @@
+Results of C2C on tar-test
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 539.0	 361.0	 276.0	 324.0	 1500.0
+Defense Rate, 0.9625, 0.9863387978142076, 0.6764705882352942, 0.826530612244898, 0.8690614136732329
+Permitted Syscall Number of C2C on tar-test: 73

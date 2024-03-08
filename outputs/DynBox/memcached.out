@@ -1,0 +1,10 @@
+DynBox Whole Life Cycle on memcached
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 320.90909090909093	 436.0	 471.09090909090907	 244.54545454545453	 1472.5454545454545
+Defense Rate, 0.9608056614044638, 1.0, 0.8066625155666252, 0.6573802541544477, 0.8531549562835774
+DynBox Serving Phase on memcached
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 322.0	 436.0	 480.5	 248.5	 1487.0
+Defense Rate, 0.9640718562874252, 1.0, 0.8227739726027398, 0.668010752688172, 0.8615295480880649
+Average Permitted Syscall Number of Whole Life Cycle on Application memcached: 58.0
+Average Permitted Syscall Number of Serving Phase on Application memcached: 54.8

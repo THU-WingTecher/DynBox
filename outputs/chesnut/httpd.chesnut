@@ -1,0 +1,5 @@
+Results of Chesnut on httpd
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 318.0	 278.0	 271.0	 238.0	 1105.0
+Defense Rate, 0.5678571428571428, 0.7595628415300546, 0.6642156862745098, 0.6071428571428571, 0.6402085747392816
+Permitted Syscall Number of Chesnut on httpd: 99

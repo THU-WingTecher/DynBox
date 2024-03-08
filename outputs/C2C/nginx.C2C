@@ -1,0 +1,5 @@
+Results of C2C on nginx
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 471.0	 295.0	 341.0	 110.0	 1217.0
+Defense Rate, 0.8410714285714286, 0.8060109289617486, 0.8357843137254902, 0.28061224489795916, 0.7050984936268829
+Permitted Syscall Number of C2C on nginx: 108

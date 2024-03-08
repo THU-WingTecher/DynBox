@@ -1,0 +1,1204 @@
+{
+    "./regcomp.c:1243:24": [
+        "mark_opt_subexp",
+        "free_tree",
+        "calc_first",
+        "lower_subexps"
+    ],
+    "./regcomp.c:1265:27": [
+        "link_nfa_nodes",
+        "calc_next",
+        "optimize_subexps"
+    ],
+    "argmatch.c:187:3": [
+        "__argmatch_die"
+    ],
+    "argp-help.c:1133:14": [
+        "tar_help_filter"
+    ],
+    "argp-help.c:1614:9": [
+        "tar_help_filter"
+    ],
+    "argp-help.c:1646:14": [
+        "tar_help_filter"
+    ],
+    "argp-help.c:576:17": [
+        "until_short",
+        "usage_argful_short_opt",
+        "add_argless_short_opt"
+    ],
+    "argp-help.c:606:17": [
+        "usage_long_opt"
+    ],
+    "argp-parse.c:154:9": [
+        "version_etc_hook"
+    ],
+    "argp-parse.c:234:13": [
+        "parse_opt",
+        "names_parse_opt"
+    ],
+    "buffer.c:1037:7": [
+        "simple_flush_write",
+        "gnu_flush_write"
+    ],
+    "buffer.c:1076:9": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1109:5": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1170:9": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1205:5": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1226:11": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1231:13": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1258:11": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1263:13": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1354:13": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1417:3": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1454:7": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1466:6": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1495:6": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1531:4": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1542:13": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1547:15": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1561:11": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1576:11": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1654:2": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1672:5": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1676:5": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1768:7": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:1962:7": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:2030:3": [
+        "simple_flush_read",
+        "gnu_flush_read"
+    ],
+    "buffer.c:2036:3": [
+        "simple_flush_write",
+        "gnu_flush_write"
+    ],
+    "buffer.c:476:17": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:481:17": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:696:7": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:713:5": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:716:5": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:759:9": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:771:15": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:775:15": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:829:13": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:930:5": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:936:5": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:968:7": [
+        "checkpoint_flush_actions"
+    ],
+    "buffer.c:989:11": [
+        "checkpoint_flush_actions"
+    ],
+    "checkpoint.c:133:2": [
+        "checkpoint_flush_actions"
+    ],
+    "checkpoint.c:146:5": [
+        "checkpoint_flush_actions"
+    ],
+    "checkpoint.c:308:9": [
+        "checkpoint_flush_actions"
+    ],
+    "compare.c:133:4": [
+        "checkpoint_flush_actions"
+    ],
+    "compare.c:140:12": [
+        "process_noop",
+        "process_rawdata"
+    ],
+    "compare.c:479:7": [
+        "checkpoint_flush_actions"
+    ],
+    "compare.c:533:7": [
+        "checkpoint_flush_actions"
+    ],
+    "compare.c:539:7": [
+        "checkpoint_flush_actions"
+    ],
+    "compare.c:544:5": [
+        "checkpoint_flush_actions"
+    ],
+    "compare.c:618:4": [
+        "checkpoint_flush_actions"
+    ],
+    "compare.c:636:8": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:1103:4": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:1201:2": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:1454:3": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:1567:4": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:1727:2": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:1736:7": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:1836:8": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:1912:7": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:249:23": [
+        "gid_substitute",
+        "uid_substitute"
+    ],
+    "create.c:262:7": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:268:5": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:328:8": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:605:7": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:614:7": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:641:7": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:668:4": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:71:5": [
+        "checkpoint_flush_actions"
+    ],
+    "create.c:89:40": [
+        "cachedir_file_p"
+    ],
+    "delete.c:210:8": [
+        "checkpoint_flush_actions"
+    ],
+    "delete.c:215:8": [
+        "checkpoint_flush_actions"
+    ],
+    "delete.c:280:8": [
+        "checkpoint_flush_actions"
+    ],
+    "exclist.c:104:22": [
+        "hg_initfn"
+    ],
+    "exclist.c:112:8": [
+        "checkpoint_flush_actions"
+    ],
+    "exclist.c:93:8": [
+        "checkpoint_flush_actions"
+    ],
+    "exclude.c:384:19": [
+        "fnmatch_no_wildcards",
+        "fnmatch"
+    ],
+    "exclude.c:390:20": [
+        "fnmatch_no_wildcards",
+        "fnmatch"
+    ],
+    "exclude.c:658:9": [
+        "hg_addfn",
+        "bzr_addfn",
+        "git_addfn",
+        "cvs_addfn",
+        "call_addfn"
+    ],
+    "exclude.c:672:3": [
+        "add_exclude"
+    ],
+    "exit.c:29:5": [
+        "extract_finish"
+    ],
+    "extract.c:1158:4": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:1277:6": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:1693:7": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:1700:7": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:1704:7": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:1730:8": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:1761:5": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:1793:2": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:1806:11": [
+        "extract_fifo",
+        "extract_node",
+        "extract_link",
+        "extract_symlink",
+        "extract_dir",
+        "extract_file"
+    ],
+    "extract.c:1943:7": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:309:5": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:327:4": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:590:3": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:807:4": [
+        "checkpoint_flush_actions"
+    ],
+    "extract.c:938:5": [
+        "checkpoint_flush_actions"
+    ],
+    "hash.c:234:14": [
+        "hash_link",
+        "name_hash",
+        "hash_directory_meta",
+        "string_hasher",
+        "map_hash",
+        "string_hasher_ci",
+        "raw_hasher",
+        "hash_directory_canonical_name",
+        "hash_string_hasher"
+    ],
+    "hash.c:250:34": [
+        "compare_links",
+        "compare_directory_canonical_names",
+        "string_compare",
+        "map_compare",
+        "name_compare",
+        "hash_string_compare",
+        "string_compare_ci",
+        "compare_directory_meta",
+        "raw_comparator"
+    ],
+    "hash.c:336:21": [
+        "write_directory_file_entry"
+    ],
+    "hash.c:582:17": [
+        "string_free"
+    ],
+    "hash.c:594:13": [
+        "string_free"
+    ],
+    "hash.c:619:17": [
+        "string_free"
+    ],
+    "hash.c:712:32": [
+        "compare_links",
+        "compare_directory_canonical_names",
+        "string_compare",
+        "map_compare",
+        "name_compare",
+        "hash_string_compare",
+        "string_compare_ci",
+        "compare_directory_meta",
+        "raw_comparator"
+    ],
+    "hash.c:740:14": [
+        "compare_links",
+        "compare_directory_canonical_names",
+        "string_compare",
+        "map_compare",
+        "name_compare",
+        "hash_string_compare",
+        "string_compare_ci",
+        "compare_directory_meta",
+        "raw_comparator"
+    ],
+    "incremen.c:1003:5": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1018:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1048:6": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1058:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1074:2": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1082:2": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1139:2": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1154:2": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1163:7": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1176:7": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1183:7": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1212:7": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1265:2": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1274:3": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1374:6": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1377:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1396:4": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1511:2": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1551:4": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1561:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1574:5": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1587:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1593:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1613:7": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1620:5": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1664:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1726:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1738:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:1752:5": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:499:5": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:543:8": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:557:4": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:573:7": [
+        "checkpoint_flush_actions"
+    ],
+    "incremen.c:595:5": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:1164:4": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:1401:2": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:218:7": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:229:4": [
+        "list_archive",
+        "extract_archive",
+        "diff_archive"
+    ],
+    "list.c:250:8": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:274:8": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:287:8": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:487:9": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:749:6": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:805:3": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:816:6": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:839:8": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:852:3": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:883:3": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:911:6": [
+        "checkpoint_flush_actions"
+    ],
+    "list.c:935:7": [
+        "checkpoint_flush_actions"
+    ],
+    "map.c:103:2": [
+        "checkpoint_flush_actions"
+    ],
+    "map.c:125:14": [
+        "name_to_gid",
+        "name_to_uid"
+    ],
+    "map.c:158:13": [
+        "name_to_gid",
+        "name_to_uid"
+    ],
+    "map.c:182:5": [
+        "checkpoint_flush_actions"
+    ],
+    "misc.c:1150:7": [
+        "checkpoint_flush_actions"
+    ],
+    "misc.c:1156:5": [
+        "readlink_diag",
+        "open_diag",
+        "stat_diag"
+    ],
+    "misc.c:758:7": [
+        "checkpoint_flush_actions"
+    ],
+    "misc.c:777:4": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:1001:5": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:1047:4": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:1400:7": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:1402:7": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:1419:2": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:1437:4": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:1510:11": [
+        "compare_names_found",
+        "compare_names"
+    ],
+    "names.c:1535:9": [
+        "compare_names_found",
+        "compare_names"
+    ],
+    "names.c:1750:6": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:1756:4": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:389:4": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:435:7": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:747:7": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:758:8": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:763:3": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:767:3": [
+        "checkpoint_flush_actions"
+    ],
+    "names.c:919:2": [
+        "checkpoint_flush_actions"
+    ],
+    "obstack.c:138:5": [
+        "print_and_abort"
+    ],
+    "obstack.c:202:5": [
+        "print_and_abort"
+    ],
+    "obstack.c:87:12": [],
+    "obstack.c:89:12": [],
+    "obstack.c:96:5": [],
+    "obstack.c:98:5": [],
+    "paxerror.c:103:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:129:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:180:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:193:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:212:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:261:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:277:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:286:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:350:5": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:60:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:73:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:86:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxerror.c:95:3": [
+        "checkpoint_flush_actions"
+    ],
+    "paxnames.c:143:8": [
+        "checkpoint_flush_actions"
+    ],
+    "paxnames.c:157:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:111:12": [],
+    "sparse.c:120:12": [],
+    "sparse.c:1285:9": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:1287:7": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:1290:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:129:12": [],
+    "sparse.c:1302:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:1305:8": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:1310:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:1313:8": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:137:12": [
+        "sparse_dump_region"
+    ],
+    "sparse.c:145:12": [
+        "sparse_extract_region"
+    ],
+    "sparse.c:153:12": [
+        "oldgnu_dump_header",
+        "pax_dump_header"
+    ],
+    "sparse.c:161:12": [
+        "pax_decode_header",
+        "oldgnu_get_sparse_info",
+        "star_get_sparse_info"
+    ],
+    "sparse.c:169:12": [
+        "oldgnu_fixup_header",
+        "star_fixup_header"
+    ],
+    "sparse.c:443:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:487:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:665:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:816:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:826:7": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:948:4": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:959:7": [
+        "checkpoint_flush_actions"
+    ],
+    "sparse.c:98:12": [
+        "oldgnu_sparse_member_p",
+        "pax_sparse_member_p",
+        "star_sparse_member_p"
+    ],
+    "system.c:191:6": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:194:2": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:285:4": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:293:8": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:484:4": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:486:4": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:490:2": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:501:5": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:772:2": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:777:7": [
+        "checkpoint_flush_actions"
+    ],
+    "system.c:781:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1026:3": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1056:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1064:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1093:6": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1284:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1387:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1572:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1587:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1633:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:164:7": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1700:8": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1703:8": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1803:6": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1882:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1914:6": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:195:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1978:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:1982:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2027:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2053:9": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2240:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2255:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2343:3": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2414:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2440:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2457:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2474:6": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2488:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2490:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2504:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2506:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2508:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2514:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2525:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2532:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2537:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2542:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2590:6": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2624:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:263:3": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2647:2": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2673:4": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:2784:7": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:872:3": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:87:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:959:5": [
+        "checkpoint_flush_actions"
+    ],
+    "tar.c:972:5": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:202:3": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:207:7": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:212:5": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:220:5": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:228:5": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:256:4": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:274:7": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:301:3": [
+        "checkpoint_flush_actions"
+    ],
+    "transform.c:617:31": [
+        "decode_xform"
+    ],
+    "transform.c:623:25": [
+        "decode_xform"
+    ],
+    "update.c:187:8": [
+        "checkpoint_flush_actions"
+    ],
+    "update.c:191:8": [
+        "checkpoint_flush_actions"
+    ],
+    "update.c:85:6": [
+        "checkpoint_flush_actions"
+    ],
+    "wordsplit.c:105:5": [
+        "_wsplt_alloc_die"
+    ],
+    "wordsplit.c:1238:7": [],
+    "wordsplit.c:1300:7": [],
+    "wordsplit.c:1311:4": [],
+    "wordsplit.c:1314:4": [],
+    "wordsplit.c:1330:6": [],
+    "wordsplit.c:1458:24": [
+        "begin_var_p",
+        "begin_cmd_p"
+    ],
+    "wordsplit.c:1467:8": [
+        "expvar",
+        "expcmd"
+    ],
+    "wordsplit.c:1564:12": [],
+    "wordsplit.c:1568:10": [],
+    "wordsplit.c:2343:5": [],
+    "wordsplit.c:2369:7": [],
+    "wordsplit.c:2383:5": [],
+    "wordsplit.c:2390:12": [
+        "wordsplit_pathexpand",
+        "wsnode_quoteremoval",
+        "wordsplit_varexp",
+        "wordsplit_tildexpand",
+        "wordsplit_cmdexp",
+        "wordsplit_trimws"
+    ],
+    "wordsplit.c:2394:5": [],
+    "wordsplit.c:2553:7": [],
+    "wordsplit.c:2559:7": [],
+    "wordsplit.c:568:2": [],
+    "wordsplit.c:572:2": [],
+    "wordsplit.c:73:3": [],
+    "wordsplit.c:824:6": [
+        "_wsplt_error"
+    ],
+    "xattrs.c:379:9": [
+        "checkpoint_flush_actions"
+    ],
+    "xattrs.c:409:9": [
+        "checkpoint_flush_actions"
+    ],
+    "xattrs.c:554:9": [
+        "checkpoint_flush_actions"
+    ],
+    "xattrs.c:616:9": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1057:7": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1088:3": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1139:2": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1172:7": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1475:2": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1500:2": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1522:4": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1555:8": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1567:4": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:1577:5": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:164:3": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:173:5": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:188:5": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:207:2": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:221:2": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:493:5": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:703:2": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:712:7": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:723:7": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:732:7": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:738:7": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:743:3": [
+        "decg",
+        "decx"
+    ],
+    "xheader.c:757:2": [
+        "xattr_acls_d_decoder",
+        "xattr_acls_a_decoder",
+        "xattr_selinux_decoder",
+        "volume_size_decoder",
+        "volume_label_decoder",
+        "sparse_map_decoder",
+        "sparse_numbytes_decoder",
+        "sparse_offset_decoder",
+        "sparse_size_decoder",
+        "sparse_minor_decoder",
+        "atime_decoder",
+        "ctime_decoder",
+        "mtime_decoder",
+        "dummy_decoder",
+        "gid_decoder",
+        "path_decoder",
+        "gname_decoder",
+        "size_decoder",
+        "xattr_decoder",
+        "linkpath_decoder",
+        "uid_decoder",
+        "volume_filename_decoder",
+        "sparse_numblocks_decoder",
+        "uname_decoder",
+        "volume_offset_decoder",
+        "sparse_path_decoder",
+        "dumpdir_decoder",
+        "sparse_major_decoder"
+    ],
+    "xheader.c:773:5": [
+        "xattr_acls_d_decoder",
+        "xattr_acls_a_decoder",
+        "xattr_selinux_decoder",
+        "volume_size_decoder",
+        "volume_label_decoder",
+        "sparse_map_decoder",
+        "sparse_numbytes_decoder",
+        "sparse_offset_decoder",
+        "sparse_size_decoder",
+        "sparse_minor_decoder",
+        "atime_decoder",
+        "ctime_decoder",
+        "mtime_decoder",
+        "dummy_decoder",
+        "gid_decoder",
+        "path_decoder",
+        "gname_decoder",
+        "size_decoder",
+        "xattr_decoder",
+        "linkpath_decoder",
+        "uid_decoder",
+        "volume_filename_decoder",
+        "sparse_numblocks_decoder",
+        "uname_decoder",
+        "volume_offset_decoder",
+        "sparse_path_decoder",
+        "dumpdir_decoder",
+        "sparse_major_decoder"
+    ],
+    "xheader.c:775:5": [
+        "checkpoint_flush_actions"
+    ],
+    "xheader.c:812:5": [
+        "xattr_acls_d_decoder",
+        "xattr_acls_a_decoder",
+        "xattr_selinux_decoder",
+        "volume_size_decoder",
+        "volume_label_decoder",
+        "sparse_map_decoder",
+        "sparse_numbytes_decoder",
+        "sparse_offset_decoder",
+        "sparse_size_decoder",
+        "sparse_minor_decoder",
+        "atime_decoder",
+        "ctime_decoder",
+        "mtime_decoder",
+        "dummy_decoder",
+        "gid_decoder",
+        "path_decoder",
+        "gname_decoder",
+        "size_decoder",
+        "xattr_decoder",
+        "linkpath_decoder",
+        "uid_decoder",
+        "volume_filename_decoder",
+        "sparse_numblocks_decoder",
+        "uname_decoder",
+        "volume_offset_decoder",
+        "sparse_path_decoder",
+        "dumpdir_decoder",
+        "sparse_major_decoder"
+    ],
+    "xheader.c:855:5": [
+        "xattr_acls_d_coder",
+        "xattr_acls_a_coder",
+        "xattr_selinux_coder",
+        "volume_offset_coder",
+        "volume_label_coder",
+        "sparse_numbytes_coder",
+        "sparse_offset_coder",
+        "sparse_numblocks_coder",
+        "sparse_size_coder",
+        "atime_coder",
+        "mtime_coder",
+        "volume_size_coder",
+        "dummy_coder",
+        "gid_coder",
+        "path_coder",
+        "sparse_minor_coder",
+        "ctime_coder",
+        "gname_coder",
+        "size_coder",
+        "xattr_coder",
+        "linkpath_coder",
+        "uid_coder",
+        "uname_coder",
+        "dumpdir_coder",
+        "sparse_major_coder"
+    ],
+    "xheader.c:882:2": [
+        "checkpoint_flush_actions"
+    ]
+}

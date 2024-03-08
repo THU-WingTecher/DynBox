@@ -1,0 +1,5 @@
+,nginx,httpd,redis,sqlite,memcached,bind,tar
+Runtime Overhead,1.83%,0.14%,17.44%,0.75%,5.15%,5.22%,4.96%
+Binary Expansion,5.53%,4.31%,0.72%,5.07%,1.72%,2.44%,9.83%
+Analysis Time(s),5.27,3.31,3.67,6.92,1.0,11.52,1.87
+Binary Size(MiB),1.22,1.79,1.23,2.1,0.35,4.05,1.16

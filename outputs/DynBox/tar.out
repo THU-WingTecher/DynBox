@@ -1,0 +1,10 @@
+DynBox Whole Life Cycle on tar
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 284.7894736842105	 321.7105263157895	 555.4736842105264	 229.31578947368422	 1391.2894736842106
+Defense Rate, 0.8526630948629057, 0.7378681796233704, 0.951153568853641, 0.6164402942840974, 0.8060773312191255
+DynBox Serving Phase on tar
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 284.7894736842105	 321.7105263157895	 555.4736842105264	 229.31578947368422	 1391.2894736842106
+Defense Rate, 0.8526630948629057, 0.7378681796233704, 0.951153568853641, 0.6164402942840974, 0.8060773312191255
+Average Permitted Syscall Number of Whole Life Cycle on Application tar: 93.23684210526316
+Average Permitted Syscall Number of Serving Phase on Application tar: 93.23684210526316

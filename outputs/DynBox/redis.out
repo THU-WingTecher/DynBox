@@ -1,0 +1,10 @@
+DynBox Whole Life Cycle on redis
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 311.84615384615387	 344.9230769230769	 484.53846153846155	 301.38461538461536	 1442.6923076923076
+Defense Rate, 0.9336711192998618, 0.7911079745942131, 0.8296891464699685, 0.8101736972704715, 0.8358588109457171
+DynBox Serving Phase on redis
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 311.84615384615387	 344.9230769230769	 484.53846153846155	 301.38461538461536	 1442.6923076923076
+Defense Rate, 0.9336711192998618, 0.7911079745942131, 0.8296891464699685, 0.8101736972704715, 0.8358588109457171
+Average Permitted Syscall Number of Whole Life Cycle on Application redis: 63.92307692307692
+Average Permitted Syscall Number of Serving Phase on Application redis: 63.92307692307692

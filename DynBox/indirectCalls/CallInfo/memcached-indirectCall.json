@@ -1,0 +1,409 @@
+{
+    "./xxhash.h:4212:9": [
+        "XXH3_accumulate_512_sse2"
+    ],
+    "./xxhash.h:4235:9": [
+        "XXH3_scrambleAcc_sse2"
+    ],
+    "./xxhash.h:4247:13": [
+        "XXH3_accumulate_512_sse2"
+    ],
+    "./xxhash.h:4397:12": [
+        "XXH3_hashLong_64b_default"
+    ],
+    "assoc.c:212:34": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "crawler.c:295:19": [
+        "tcp_write",
+        "tcp_read"
+    ],
+    "crawler.c:306:25": [
+        "tcp_write",
+        "tcp_read"
+    ],
+    "crawler.c:349:9": [
+        "crawler_expired_doneclass"
+    ],
+    "crawler.c:400:9": [
+        "crawler_expired_eval",
+        "crawler_metadump_eval"
+    ],
+    "crawler.c:453:27": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "crawler.c:478:13": [
+        "crawler_expired_eval",
+        "crawler_metadump_eval"
+    ],
+    "crawler.c:502:13": [
+        "crawler_expired_finalize",
+        "crawler_metadump_finalize"
+    ],
+    "crawler.c:674:13": [
+        "crawler_expired_init"
+    ],
+    "crc32c.c:172:9": [],
+    "crc32c.c:188:13": [],
+    "crc32c.c:208:13": [],
+    "crc32c.c:226:13": [],
+    "crc32c.c:236:9": [],
+    "crc32c.c:268:5": [],
+    "extstore.c:838:13": [
+        "_storage_compact_cb",
+        "_storage_get_item_cb",
+        "_wbuf_cb"
+    ],
+    "items.c:1113:23": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "items.c:1592:16": [
+        "slab_automove_extstore_init",
+        "slab_automove_init"
+    ],
+    "items.c:1654:17": [
+        "slab_automove_extstore_free",
+        "slab_automove_free"
+    ],
+    "items.c:1655:22": [
+        "slab_automove_extstore_init",
+        "slab_automove_init"
+    ],
+    "items.c:1659:13": [
+        "slab_automove_extstore_run",
+        "slab_automove_run"
+    ],
+    "items.c:1675:5": [
+        "slab_automove_extstore_free",
+        "slab_automove_free"
+    ],
+    "items.c:385:19": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "items.c:795:9": [
+        "append_stats"
+    ],
+    "items.c:797:13": [
+        "append_stats"
+    ],
+    "items.c:798:13": [
+        "append_stats"
+    ],
+    "items.c:799:13": [
+        "append_stats"
+    ],
+    "items.c:801:17": [
+        "append_stats"
+    ],
+    "items.c:803:13": [
+        "append_stats"
+    ],
+    "items.c:804:13": [
+        "append_stats"
+    ],
+    "items.c:806:9": [
+        "append_stats"
+    ],
+    "items.c:807:9": [
+        "append_stats"
+    ],
+    "items.c:808:9": [
+        "append_stats"
+    ],
+    "items.c:810:9": [
+        "append_stats"
+    ],
+    "items.c:812:9": [
+        "append_stats"
+    ],
+    "items.c:814:9": [
+        "append_stats"
+    ],
+    "items.c:816:9": [
+        "append_stats"
+    ],
+    "items.c:818:9": [
+        "append_stats"
+    ],
+    "items.c:820:9": [
+        "append_stats"
+    ],
+    "items.c:822:9": [
+        "append_stats"
+    ],
+    "items.c:825:13": [
+        "append_stats"
+    ],
+    "items.c:828:9": [
+        "append_stats"
+    ],
+    "items.c:830:9": [
+        "append_stats"
+    ],
+    "items.c:832:9": [
+        "append_stats"
+    ],
+    "items.c:835:13": [
+        "append_stats"
+    ],
+    "items.c:837:13": [
+        "append_stats"
+    ],
+    "items.c:839:13": [
+        "append_stats"
+    ],
+    "items.c:841:13": [
+        "append_stats"
+    ],
+    "items.c:843:13": [
+        "append_stats"
+    ],
+    "items.c:846:13": [
+        "append_stats"
+    ],
+    "items.c:849:13": [
+        "append_stats"
+    ],
+    "items.c:852:13": [
+        "append_stats"
+    ],
+    "items.c:859:5": [
+        "append_stats"
+    ],
+    "items.c:951:5": [
+        "append_stats"
+    ],
+    "logger.c:524:13": [
+        "_logger_parse_extw",
+        "_logger_parse_cce",
+        "_logger_parse_cne",
+        "_logger_parse_ise",
+        "_logger_parse_ige",
+        "_logger_parse_ee",
+        "_logger_parse_text"
+    ],
+    "logger.c:707:23": [
+        "tcp_write",
+        "tcp_read"
+    ],
+    "logger.c:728:33": [
+        "tcp_write",
+        "tcp_read"
+    ],
+    "logger.c:923:5": [
+        "_logger_log_ext_write",
+        "_logger_log_conn_event",
+        "_logger_log_item_store",
+        "_logger_log_item_get",
+        "_logger_log_evictions",
+        "_logger_log_text"
+    ],
+    "memcached.c:1215:9": [],
+    "memcached.c:1750:5": [
+        "append_stats"
+    ],
+    "memcached.c:2161:17": [
+        "append_stats"
+    ],
+    "memcached.c:2166:17": [
+        "append_stats"
+    ],
+    "memcached.c:2169:21": [
+        "append_stats"
+    ],
+    "memcached.c:2171:17": [
+        "append_stats"
+    ],
+    "memcached.c:2173:17": [
+        "append_stats"
+    ],
+    "memcached.c:2360:12": [
+        "try_read_command_negotiate",
+        "try_read_command_asciiauth",
+        "try_read_command_binary",
+        "try_read_command_ascii",
+        "try_read_command_udp"
+    ],
+    "memcached.c:2463:15": [
+        "tcp_write",
+        "tcp_read"
+    ],
+    "memcached.c:2699:11": [
+        "tcp_sendmsg"
+    ],
+    "memcached.c:2922:19": [
+        "tcp_write",
+        "tcp_read"
+    ],
+    "memcached.c:3126:17": [
+        "try_read_command_negotiate",
+        "try_read_command_asciiauth",
+        "try_read_command_binary",
+        "try_read_command_ascii",
+        "try_read_command_udp"
+    ],
+    "memcached.c:3200:23": [
+        "tcp_write",
+        "tcp_read"
+    ],
+    "memcached.c:3276:19": [
+        "tcp_write",
+        "tcp_read"
+    ],
+    "memcached.c:3316:21": [],
+    "memcached.c:633:13": [],
+    "memcached.c:643:5": [],
+    "proto_text.c:1749:10": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "restart.c:114:13": [
+        "_mc_meta_save_cb",
+        "_mc_meta_load_cb"
+    ],
+    "restart.c:249:13": [
+        "_mc_meta_save_cb",
+        "_mc_meta_load_cb"
+    ],
+    "slabs.c:574:13": [
+        "append_stats"
+    ],
+    "slabs.c:575:13": [
+        "append_stats"
+    ],
+    "slabs.c:576:13": [
+        "append_stats"
+    ],
+    "slabs.c:577:13": [
+        "append_stats"
+    ],
+    "slabs.c:578:13": [
+        "append_stats"
+    ],
+    "slabs.c:580:13": [
+        "append_stats"
+    ],
+    "slabs.c:582:13": [
+        "append_stats"
+    ],
+    "slabs.c:583:13": [
+        "append_stats"
+    ],
+    "slabs.c:585:13": [
+        "append_stats"
+    ],
+    "slabs.c:587:13": [
+        "append_stats"
+    ],
+    "slabs.c:589:13": [
+        "append_stats"
+    ],
+    "slabs.c:591:13": [
+        "append_stats"
+    ],
+    "slabs.c:593:13": [
+        "append_stats"
+    ],
+    "slabs.c:595:13": [
+        "append_stats"
+    ],
+    "slabs.c:597:13": [
+        "append_stats"
+    ],
+    "slabs.c:607:5": [
+        "append_stats"
+    ],
+    "slabs.c:903:22": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "stats_prefix.c:56:15": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "storage.c:147:20": [
+        "crc32c_sw",
+        "crc32c_hw"
+    ],
+    "storage.c:151:24": [
+        "crc32c_sw",
+        "crc32c_hw"
+    ],
+    "storage.c:154:20": [
+        "crc32c_sw",
+        "crc32c_hw"
+    ],
+    "storage.c:544:35": [
+        "crc32c_sw",
+        "crc32c_hw"
+    ],
+    "storage.c:81:9": [
+        "append_stats"
+    ],
+    "storage.c:83:9": [
+        "append_stats"
+    ],
+    "storage.c:85:9": [
+        "append_stats"
+    ],
+    "storage.c:87:9": [
+        "append_stats"
+    ],
+    "thread.c:808:10": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "thread.c:820:11": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "thread.c:829:10": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "thread.c:856:10": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "thread.c:877:10": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "thread.c:893:10": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "thread.c:907:10": [
+        "XXH3_hash",
+        "MurmurHash3_x86_32",
+        "jenkins_hash"
+    ],
+    "memcached.c:6157:13": [
+        "maxconns_handler",
+        "event_handler",
+        "clock_handler"
+    ],
+    "thread.c:383:16": [
+        "worker_libevent"
+    ],
+    "thread.c:518:5":[
+        "event_handler"
+    ]
+}

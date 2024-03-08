@@ -1,0 +1,2528 @@
+{
+    "./rdata/ch_3/a_1.c:283:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/afsdb_18.c:255:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/afsdb_18.c:269:2": [
+        "digest_callback"
+    ],
+    "./rdata/generic/amtrelay_260.c:411:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/avc_258.c:126:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/caa_257.c:591:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/cdnskey_60.c:128:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/cds_59.c:134:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/cert_37.c:252:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/csync_62.c:230:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/dlv_32769.c:130:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/dnskey_48.c:129:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/doa_259.c:328:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/ds_43.c:353:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/eui48_108.c:177:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/eui64_109.c:180:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/gpos_27.c:222:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/hinfo_13.c:187:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/hip_55.c:394:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/ipseckey_45.c:450:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/isdn_20.c:213:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/key_25.c:435:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/keydata_65533.c:415:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/l32_105.c:196:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/l64_106.c:190:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/loc_29.c:137:4": [],
+    "./rdata/generic/loc_29.c:241:4": [],
+    "./rdata/generic/loc_29.c:885:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/lp_107.c:201:11": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/lp_107.c:205:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/lp_107.c:215:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/mb_7.c:186:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/md_3.c:187:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/mf_4.c:186:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/mx_15.c:285:11": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/mx_15.c:297:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/mx_15.c:311:2": [
+        "digest_callback"
+    ],
+    "./rdata/generic/naptr_35.c:645:11": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/naptr_35.c:695:11": [
+        "digest_callback"
+    ],
+    "./rdata/generic/nid_104.c:190:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/ninfo_56.c:126:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/ns_2.c:197:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/nsec3_50.c:376:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/nsec3param_51.c:287:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/nsec_47.c:229:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/null_10.c:153:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/nxt_30.c:318:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/openpgpkey_61.c:204:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/rkey_57.c:125:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/rt_21.c:249:11": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/rt_21.c:253:11": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/rt_21.c:257:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/generic/rt_21.c:272:11": [
+        "digest_callback"
+    ],
+    "./rdata/generic/sink_40.c:259:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/smimea_53.c:120:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/soa_6.c:401:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/spf_99.c:127:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/sshfp_44.c:263:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/ta_32768.c:131:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/talink_58.c:235:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/tlsa_52.c:307:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/txt_16.c:249:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/uri_256.c:285:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/x25_19.c:192:10": [
+        "digest_callback"
+    ],
+    "./rdata/generic/zonemd_63.c:288:10": [
+        "digest_callback"
+    ],
+    "./rdata/hs_4/a_1.c:200:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/a6_38.c:424:11": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/a_1.c:204:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/aaaa_28.c:216:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/apl_42.c:446:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/atma_34.c:282:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/dhcid_49.c:200:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/eid_31.c:189:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/kx_36.c:236:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/in_1/kx_36.c:251:2": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/nimloc_32.c:189:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/nsap_22.c:224:10": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/px_26.c:330:11": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/srv_33.c:327:11": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/in_1/srv_33.c:346:10": [
+        "check_related",
+        "glue_nsdname_cb",
+        "query_additional_cb"
+    ],
+    "./rdata/in_1/srv_33.c:361:2": [
+        "digest_callback"
+    ],
+    "./rdata/in_1/wks_11.c:406:10": [
+        "digest_callback"
+    ],
+    "./server.c:13141:12": [
+        "nzf_writeconf"
+    ],
+    "assertions.c:46:2": [
+        "default_callback",
+        "assertion_failed"
+    ],
+    "builtin.c:307:11": [
+        "do_dns64_lookup",
+        "do_empty_lookup"
+    ],
+    "builtin.c:323:11": [
+        "do_dns64_lookup",
+        "do_empty_lookup"
+    ],
+    "builtin.c:408:12": [
+        "named_os_gethostname"
+    ],
+    "catz.c:521:12": [],
+    "catz.c:543:12": [],
+    "catz.c:560:12": [],
+    "client.c:2007:11": [
+        "get_matching_view"
+    ],
+    "client.c:205:3": [],
+    "client.c:616:3": [],
+    "client.c:961:13": [
+        "named_os_gethostname"
+    ],
+    "db.c:1000:10": [],
+    "db.c:1056:10": [
+        "nodefullname"
+    ],
+    "db.c:1065:11": [
+        "setservestalettl"
+    ],
+    "db.c:1076:11": [
+        "getservestalettl"
+    ],
+    "db.c:1087:11": [
+        "setgluecachestats",
+        "setcachestats"
+    ],
+    "db.c:118:13": [
+        "dns_ecdb_create",
+        "dns_sdb_create",
+        "dns_rbtdb_create"
+    ],
+    "db.c:141:2": [
+        "attach.11873",
+        "attach.8936",
+        "attach",
+        "attach.8831"
+    ],
+    "db.c:155:2": [
+        "detach.8832",
+        "detach",
+        "detach.8963",
+        "detach.11874"
+    ],
+    "db.c:215:11": [],
+    "db.c:217:10": [],
+    "db.c:229:10": [
+        "ispersistent.8851",
+        "issecure",
+        "ispersistent",
+        "issecure.8849",
+        "issecure.8983",
+        "isdnssec.6207",
+        "ispersistent.8985"
+    ],
+    "db.c:240:10": [
+        "issecure.8849",
+        "ispersistent.8851",
+        "issecure",
+        "ispersistent",
+        "issecure.8983",
+        "isdnssec.6207",
+        "ispersistent.8985"
+    ],
+    "db.c:274:10": [
+        "beginload.8833",
+        "endload.8965",
+        "endload.8834",
+        "beginload.8964",
+        "beginload",
+        "endload"
+    ],
+    "db.c:292:3": [
+        "dns_catz_dbupdate_callback",
+        "dns_rpz_dbupdate_callback"
+    ],
+    "db.c:295:10": [
+        "beginload.8833",
+        "endload.8965",
+        "endload.8834",
+        "beginload.8964",
+        "beginload",
+        "endload"
+    ],
+    "db.c:343:10": [
+        "printnode.8843",
+        "printnode.8976",
+        "printnode",
+        "serialize"
+    ],
+    "db.c:348:10": [],
+    "db.c:366:2": [
+        "currentversion",
+        "detachnode",
+        "detachnode.11879",
+        "currentversion.8967",
+        "newversion.8837",
+        "detachnode.8841",
+        "newversion",
+        "getoriginnode",
+        "getoriginnode.8988",
+        "currentversion.8836",
+        "getoriginnode.8854",
+        "newversion.8968",
+        "detachnode.8974"
+    ],
+    "db.c:379:10": [
+        "getoriginnode.8854",
+        "currentversion.8836",
+        "detachnode.11879",
+        "currentversion",
+        "newversion.8837",
+        "getoriginnode",
+        "getoriginnode.8988",
+        "newversion",
+        "detachnode.8841",
+        "currentversion.8967",
+        "newversion.8968",
+        "detachnode.8974",
+        "detachnode"
+    ],
+    "db.c:394:2": [
+        "attachnode.8840",
+        "attachnode",
+        "attachversion.8969",
+        "attachversion.8838",
+        "attachnode.8973",
+        "attachversion",
+        "attachnode.11878"
+    ],
+    "db.c:411:2": [
+        "closeversion.8970",
+        "closeversion.8839",
+        "closeversion"
+    ],
+    "db.c:417:4": [
+        "dns_rpz_dbupdate_callback",
+        "dns_catz_dbupdate_callback"
+    ],
+    "db.c:439:11": [
+        "findnode",
+        "findnode.11875",
+        "findnsec3node",
+        "findnode.8971"
+    ],
+    "db.c:441:11": [
+        "findnodeext.8989",
+        "findnodeext"
+    ],
+    "db.c:459:11": [
+        "findnodeext.8989",
+        "findnodeext"
+    ],
+    "db.c:462:11": [
+        "findnode",
+        "findnode.11875",
+        "findnsec3node",
+        "findnode.8971"
+    ],
+    "db.c:476:10": [
+        "findnode",
+        "findnode.11875",
+        "findnsec3node",
+        "findnode.8971"
+    ],
+    "db.c:500:11": [
+        "find.11876",
+        "find",
+        "cache_find",
+        "zone_find"
+    ],
+    "db.c:504:11": [
+        "findext.8990",
+        "findext"
+    ],
+    "db.c:532:11": [
+        "findext.8990",
+        "findext"
+    ],
+    "db.c:536:11": [
+        "find.11876",
+        "find",
+        "cache_find",
+        "zone_find"
+    ],
+    "db.c:561:10": [
+        "findzonecut.11877",
+        "findzonecut.8972",
+        "findzonecut",
+        "cache_findzonecut",
+        "zone_findzonecut"
+    ],
+    "db.c:576:2": [
+        "attachnode.8840",
+        "attachnode",
+        "attachversion.8969",
+        "attachversion.8838",
+        "attachnode.8973",
+        "attachversion",
+        "attachnode.11878"
+    ],
+    "db.c:588:2": [
+        "currentversion",
+        "detachnode",
+        "detachnode.11879",
+        "currentversion.8967",
+        "newversion.8837",
+        "detachnode.8841",
+        "newversion",
+        "getoriginnode",
+        "getoriginnode.8988",
+        "currentversion.8836",
+        "getoriginnode.8854",
+        "newversion.8968",
+        "detachnode.8974"
+    ],
+    "db.c:611:3": [],
+    "db.c:627:10": [],
+    "db.c:640:2": [],
+    "db.c:657:10": [
+        "createiterator.11880",
+        "createiterator.8844",
+        "createiterator",
+        "createiterator.8977"
+    ],
+    "db.c:679:10": [
+        "findrdataset",
+        "zone_findrdataset",
+        "findrdataset.8978",
+        "cache_findrdataset"
+    ],
+    "db.c:694:10": [
+        "allrdatasets",
+        "allrdatasets.8845",
+        "allrdatasets.11881",
+        "allrdatasets.8979"
+    ],
+    "db.c:719:10": [
+        "addrdataset.8980",
+        "addrdataset.8846",
+        "addrdataset",
+        "addrdataset.11882"
+    ],
+    "db.c:742:10": [
+        "subtractrdataset.8847",
+        "subtractrdataset.8981",
+        "subtractrdataset"
+    ],
+    "db.c:760:10": [],
+    "db.c:767:2": [
+        "overmem",
+        "overmem.8986",
+        "overmem.8852"
+    ],
+    "db.c:820:10": [
+        "nodecount",
+        "nodecount.8850",
+        "nodecount.8984"
+    ],
+    "db.c:831:10": [
+        "hashsize"
+    ],
+    "db.c:838:2": [
+        "settask.8853",
+        "settask",
+        "settask.8987"
+    ],
+    "db.c:897:11": [
+        "currentversion",
+        "detachnode",
+        "detachnode.11879",
+        "currentversion.8967",
+        "newversion.8837",
+        "detachnode.8841",
+        "newversion",
+        "getoriginnode",
+        "getoriginnode.8988",
+        "currentversion.8836",
+        "getoriginnode.8854",
+        "newversion.8968",
+        "detachnode.8974"
+    ],
+    "db.c:908:11": [
+        "getrrsetstats"
+    ],
+    "db.c:919:11": [
+        "setgluecachestats",
+        "setcachestats"
+    ],
+    "db.c:934:11": [
+        "getnsec3parameters"
+    ],
+    "db.c:949:11": [
+        "getsize"
+    ],
+    "db.c:959:11": [
+        "setsigningtime"
+    ],
+    "db.c:968:11": [
+        "getsigningtime"
+    ],
+    "db.c:977:3": [],
+    "db.c:989:2": [],
+    "dbiterator.c:101:10": [
+        "dbiterator_current.9039",
+        "dbiterator_current",
+        "dbiterator_current.8896"
+    ],
+    "dbiterator.c:112:10": [
+        "dbiterator_pause",
+        "dbiterator_first",
+        "dbiterator_next",
+        "dbiterator_prev.8894",
+        "dbiterator_prev.9037",
+        "dbiterator_pause.9040",
+        "dbiterator_last",
+        "dbiterator_last.8892",
+        "dbiterator_first.8891",
+        "dbiterator_next.9038",
+        "dbiterator_next.8895",
+        "dbiterator_pause.8897",
+        "dbiterator_first.9034",
+        "dbiterator_last.9035",
+        "dbiterator_prev"
+    ],
+    "dbiterator.c:125:10": [
+        "dbiterator_seek.8893",
+        "dbiterator_origin.8898",
+        "dbiterator_seek.9036",
+        "dbiterator_origin.9041",
+        "dbiterator_origin",
+        "dbiterator_seek"
+    ],
+    "dbiterator.c:30:2": [
+        "dbiterator_destroy.9025",
+        "dbiterator_destroy",
+        "dbiterator_destroy.8882"
+    ],
+    "dbiterator.c:43:10": [
+        "dbiterator_first",
+        "dbiterator_last",
+        "dbiterator_last.8892",
+        "dbiterator_prev",
+        "dbiterator_pause.9040",
+        "dbiterator_pause",
+        "dbiterator_next",
+        "dbiterator_prev.8894",
+        "dbiterator_prev.9037",
+        "dbiterator_first.8891",
+        "dbiterator_next.9038",
+        "dbiterator_next.8895",
+        "dbiterator_pause.8897",
+        "dbiterator_first.9034",
+        "dbiterator_last.9035"
+    ],
+    "dbiterator.c:54:10": [
+        "dbiterator_pause",
+        "dbiterator_first",
+        "dbiterator_next",
+        "dbiterator_prev.8894",
+        "dbiterator_prev.9037",
+        "dbiterator_pause.9040",
+        "dbiterator_last",
+        "dbiterator_last.8892",
+        "dbiterator_first.8891",
+        "dbiterator_next.9038",
+        "dbiterator_next.8895",
+        "dbiterator_pause.8897",
+        "dbiterator_first.9034",
+        "dbiterator_last.9035",
+        "dbiterator_prev"
+    ],
+    "dbiterator.c:65:10": [
+        "dbiterator_seek.8893",
+        "dbiterator_origin.8898",
+        "dbiterator_seek.9036",
+        "dbiterator_origin.9041",
+        "dbiterator_origin",
+        "dbiterator_seek"
+    ],
+    "dbiterator.c:76:10": [
+        "dbiterator_pause",
+        "dbiterator_first",
+        "dbiterator_next",
+        "dbiterator_prev.8894",
+        "dbiterator_prev.9037",
+        "dbiterator_pause.9040",
+        "dbiterator_last",
+        "dbiterator_last.8892",
+        "dbiterator_first.8891",
+        "dbiterator_next.9038",
+        "dbiterator_next.8895",
+        "dbiterator_pause.8897",
+        "dbiterator_first.9034",
+        "dbiterator_last.9035",
+        "dbiterator_prev"
+    ],
+    "dbiterator.c:87:10": [
+        "dbiterator_first",
+        "dbiterator_last",
+        "dbiterator_last.8892",
+        "dbiterator_prev",
+        "dbiterator_pause.9040",
+        "dbiterator_pause",
+        "dbiterator_next",
+        "dbiterator_prev.8894",
+        "dbiterator_prev.9037",
+        "dbiterator_first.8891",
+        "dbiterator_next.9038",
+        "dbiterator_next.8895",
+        "dbiterator_pause.8897",
+        "dbiterator_first.9034",
+        "dbiterator_last.9035"
+    ],
+    "diff.c:515:13": [
+        "loading_addrdataset"
+    ],
+    "dlz.c:129:12": [],
+    "dlz.c:210:12": [
+        "dns_sdlzcreate"
+    ],
+    "dlz.c:261:2": [
+        "dns_sdlzdestroy"
+    ],
+    "dlz.c:475:11": [],
+    "dlz.c:511:11": [
+        "dns_sdlzconfigure"
+    ],
+    "dlz.c:535:6": [
+        "dns_sdlzssumatch"
+    ],
+    "dlz_dlopen_driver.c:108:11": [],
+    "dlz_dlopen_driver.c:126:11": [],
+    "dlz_dlopen_driver.c:144:11": [
+        "builtin_authority"
+    ],
+    "dlz_dlopen_driver.c:159:11": [],
+    "dlz_dlopen_driver.c:175:11": [
+        "builtin_lookup"
+    ],
+    "dlz_dlopen_driver.c:298:16": [],
+    "dlz_dlopen_driver.c:318:11": [],
+    "dlz_dlopen_driver.c:364:3": [
+        "node_destroy",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "ns__client_put_cb",
+        "view_loaded",
+        "default_memfree",
+        "resume_processing"
+    ],
+    "dlz_dlopen_driver.c:404:11": [
+        "builtin_destroy"
+    ],
+    "dlz_dlopen_driver.c:425:2": [],
+    "dlz_dlopen_driver.c:446:11": [],
+    "dlz_dlopen_driver.c:470:8": [],
+    "dlz_dlopen_driver.c:493:11": [
+        "dlopen_dlz_allowzonexfr"
+    ],
+    "dlz_dlopen_driver.c:515:11": [
+        "dlopen_dlz_allowzonexfr"
+    ],
+    "dlz_dlopen_driver.c:537:11": [
+        "dlopen_dlz_allowzonexfr"
+    ],
+    "dnssec.c:1880:2": [],
+    "dnssec.c:1887:3": [],
+    "dnssec.c:1911:2": [],
+    "dst_api.c:1000:8": [
+        "opensslecdsa_generate",
+        "hmacmd5_generate",
+        "opensslrsa_generate",
+        "openssldh_generate",
+        "hmacsha256_generate",
+        "hmacsha384_generate",
+        "openssleddsa_generate",
+        "hmacsha1_generate",
+        "hmacsha224_generate",
+        "hmacsha512_generate"
+    ],
+    "dst_api.c:1173:11": [
+        "opensslrsa_compare",
+        "openssleddsa_compare",
+        "openssldh_paramcompare",
+        "pub_compare",
+        "hmacsha224_compare",
+        "hmacsha512_compare",
+        "hmacsha1_compare",
+        "hmacsha256_compare",
+        "hmacmd5_compare",
+        "hmacsha384_compare",
+        "openssldh_compare",
+        "opensslecdsa_compare"
+    ],
+    "dst_api.c:1250:6": [
+        "opensslrsa_compare",
+        "openssleddsa_compare",
+        "openssldh_paramcompare",
+        "hmacsha224_compare",
+        "hmacsha512_compare",
+        "hmacsha1_compare",
+        "hmacsha256_compare",
+        "hmacmd5_compare",
+        "hmacsha384_compare",
+        "openssldh_compare",
+        "opensslecdsa_compare"
+    ],
+    "dst_api.c:1280:4": [
+        "opensslecdsa_destroy",
+        "hmacsha224_destroy",
+        "hmacsha1_destroy",
+        "hmacsha384_destroy",
+        "hmacmd5_destroy",
+        "hmacsha256_destroy",
+        "hmacsha512_destroy",
+        "openssldh_destroy",
+        "openssleddsa_destroy",
+        "opensslrsa_destroy"
+    ],
+    "dst_api.c:1302:10": [
+        "opensslrsa_isprivate",
+        "hmacsha384_isprivate",
+        "hmacsha512_isprivate",
+        "openssleddsa_isprivate",
+        "hmacmd5_isprivate",
+        "hmacsha1_isprivate",
+        "openssldh_isprivate",
+        "hmacsha224_isprivate",
+        "hmacsha256_isprivate",
+        "opensslecdsa_isprivate"
+    ],
+    "dst_api.c:1413:10": [],
+    "dst_api.c:1439:11": [
+        "openssldh_tofile",
+        "hmacsha1_tofile",
+        "opensslrsa_tofile",
+        "hmacsha384_tofile",
+        "hmacsha224_tofile",
+        "hmacsha512_tofile",
+        "openssleddsa_tofile",
+        "hmacmd5_tofile",
+        "hmacsha256_tofile",
+        "opensslecdsa_tofile"
+    ],
+    "dst_api.c:2258:9": [
+        "openssleddsa_fromdns",
+        "hmacsha224_fromdns",
+        "opensslrsa_fromdns",
+        "hmacsha512_fromdns",
+        "openssldh_fromdns",
+        "hmacmd5_fromdns",
+        "hmacsha1_fromdns",
+        "hmacsha384_fromdns",
+        "hmacsha256_fromdns",
+        "opensslecdsa_fromdns"
+    ],
+    "dst_api.c:260:4": [
+        "openssldh_cleanup"
+    ],
+    "dst_api.c:315:12": [],
+    "dst_api.c:317:12": [
+        "openssleddsa_createctx",
+        "hmacsha384_createctx",
+        "hmacsha256_createctx",
+        "hmacsha1_createctx",
+        "hmacmd5_createctx",
+        "opensslrsa_createctx",
+        "opensslecdsa_createctx",
+        "hmacsha512_createctx",
+        "hmacsha224_createctx"
+    ],
+    "dst_api.c:340:2": [
+        "hmacsha384_destroyctx",
+        "hmacsha512_destroyctx",
+        "hmacsha256_destroyctx",
+        "opensslecdsa_destroyctx",
+        "hmacsha1_destroyctx",
+        "opensslrsa_destroyctx",
+        "hmacmd5_destroyctx",
+        "hmacsha224_destroyctx",
+        "openssleddsa_destroyctx"
+    ],
+    "dst_api.c:354:10": [
+        "opensslrsa_adddata",
+        "opensslecdsa_adddata",
+        "hmacmd5_adddata",
+        "hmacsha1_adddata",
+        "hmacsha512_adddata",
+        "hmacsha224_adddata",
+        "hmacsha384_adddata",
+        "hmacsha256_adddata",
+        "openssleddsa_adddata"
+    ],
+    "dst_api.c:373:38": [
+        "opensslrsa_isprivate",
+        "hmacsha384_isprivate",
+        "hmacsha512_isprivate",
+        "openssleddsa_isprivate",
+        "hmacmd5_isprivate",
+        "hmacsha1_isprivate",
+        "openssldh_isprivate",
+        "hmacsha224_isprivate",
+        "hmacsha256_isprivate",
+        "opensslecdsa_isprivate"
+    ],
+    "dst_api.c:378:10": [
+        "openssleddsa_sign",
+        "hmacsha512_sign",
+        "opensslrsa_sign",
+        "hmacsha1_sign",
+        "hmacmd5_sign",
+        "hmacsha384_sign",
+        "hmacsha224_sign",
+        "hmacsha256_sign",
+        "opensslecdsa_sign"
+    ],
+    "dst_api.c:394:10": [
+        "opensslrsa_verify",
+        "opensslecdsa_verify",
+        "hmacsha224_verify",
+        "openssleddsa_verify",
+        "hmacsha256_verify",
+        "hmacsha1_verify",
+        "hmacmd5_verify",
+        "hmacsha384_verify",
+        "hmacsha512_verify"
+    ],
+    "dst_api.c:413:6": [
+        "opensslrsa_verify2"
+    ],
+    "dst_api.c:414:6": [
+        "opensslrsa_verify",
+        "opensslecdsa_verify",
+        "hmacsha224_verify",
+        "openssleddsa_verify",
+        "hmacsha256_verify",
+        "hmacsha1_verify",
+        "hmacmd5_verify",
+        "hmacsha384_verify",
+        "hmacsha512_verify"
+    ],
+    "dst_api.c:441:10": [
+        "openssldh_computesecret"
+    ],
+    "dst_api.c:476:11": [
+        "opensslrsa_tofile",
+        "openssleddsa_tofile",
+        "opensslecdsa_tofile",
+        "hmacsha1_tofile",
+        "hmacsha384_tofile",
+        "openssldh_tofile",
+        "hmacsha224_tofile",
+        "hmacmd5_tofile",
+        "hmacsha512_tofile",
+        "hmacsha256_tofile"
+    ],
+    "dst_api.c:679:2": [
+        "hmacmd5_parse",
+        "hmacsha384_parse",
+        "hmacsha1_parse",
+        "hmacsha224_parse",
+        "openssldh_parse",
+        "hmacsha256_parse",
+        "hmacsha512_parse",
+        "opensslecdsa_parse",
+        "openssleddsa_parse",
+        "opensslrsa_parse"
+    ],
+    "dst_api.c:739:10": [
+        "openssldh_todns",
+        "hmacsha256_todns",
+        "hmacsha224_todns",
+        "hmacmd5_todns",
+        "opensslrsa_todns",
+        "hmacsha1_todns",
+        "hmacsha512_todns",
+        "hmacsha384_todns",
+        "opensslecdsa_todns",
+        "openssleddsa_todns"
+    ],
+    "dst_api.c:823:10": [
+        "opensslecdsa_todns",
+        "opensslrsa_todns",
+        "hmacsha1_todns",
+        "hmacsha256_todns",
+        "openssleddsa_todns",
+        "hmacmd5_todns",
+        "openssldh_todns",
+        "hmacsha224_todns",
+        "hmacsha384_todns",
+        "hmacsha512_todns"
+    ],
+    "dst_api.c:842:2": [],
+    "dst_api.c:952:11": [
+        "opensslrsa_fromlabel"
+    ],
+    "dyndb.c:149:12": [],
+    "dyndb.c:367:2": [],
+    "dyndb.c:399:3": [
+        "mctxfree",
+        "newzone_cfgctx_destroy"
+    ],
+    "error.c:57:2": [
+        "default_unexpected_callback",
+        "library_unexpected_error"
+    ],
+    "error.c:66:2": [
+        "default_fatal_callback",
+        "library_fatal_error"
+    ],
+    "event.c:91:3": [
+        "destroy.14083",
+        "destroy_socketevent",
+        "free_sevent"
+    ],
+    "heap.c:148:36": [
+        "chain_compare"
+    ],
+    "heap.c:153:4": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "heap.c:158:3": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "heap.c:161:2": [
+        "auto_detach",
+        "free_tsignode",
+        "free_digest",
+        "rpz_node_deleter",
+        "delete_callback",
+        "resign_sooner",
+        "free_nta",
+        "free_keynode",
+        "ttl_sooner",
+        "free_algorithm",
+        "zone_registerinclude",
+        "dlopen_dlz_destroy",
+        "chain_compare",
+        "sooner",
+        "auto_detach.11284"
+    ],
+    "heap.c:174:7": [
+        "auto_detach",
+        "free_tsignode",
+        "free_digest",
+        "rpz_node_deleter",
+        "delete_callback",
+        "resign_sooner",
+        "free_nta",
+        "free_keynode",
+        "ttl_sooner",
+        "free_algorithm",
+        "zone_registerinclude",
+        "dlopen_dlz_destroy",
+        "chain_compare",
+        "sooner",
+        "auto_detach.11284"
+    ],
+    "heap.c:177:7": [
+        "auto_detach",
+        "free_tsignode",
+        "free_digest",
+        "rpz_node_deleter",
+        "delete_callback",
+        "resign_sooner",
+        "free_nta",
+        "free_keynode",
+        "ttl_sooner",
+        "free_algorithm",
+        "zone_registerinclude",
+        "dlopen_dlz_destroy",
+        "chain_compare",
+        "sooner",
+        "auto_detach.11284"
+    ],
+    "heap.c:182:4": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "heap.c:188:3": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "heap.c:191:2": [
+        "auto_detach",
+        "free_tsignode",
+        "free_digest",
+        "rpz_node_deleter",
+        "delete_callback",
+        "resign_sooner",
+        "free_nta",
+        "free_keynode",
+        "ttl_sooner",
+        "free_algorithm",
+        "zone_registerinclude",
+        "dlopen_dlz_destroy",
+        "chain_compare",
+        "sooner",
+        "auto_detach.11284"
+    ],
+    "heap.c:224:3": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "heap.c:235:10": [
+        "auto_detach",
+        "free_tsignode",
+        "free_digest",
+        "rpz_node_deleter",
+        "delete_callback",
+        "resign_sooner",
+        "free_nta",
+        "free_keynode",
+        "ttl_sooner",
+        "free_algorithm",
+        "zone_registerinclude",
+        "dlopen_dlz_destroy",
+        "chain_compare",
+        "sooner",
+        "auto_detach.11284"
+    ],
+    "heap.c:281:3": [
+        "free_element_heap"
+    ],
+    "hooks.c:168:12": [],
+    "hooks.c:233:3": [
+        "mctxfree",
+        "newzone_cfgctx_destroy"
+    ],
+    "hooks.c:405:2": [],
+    "hooks.c:428:11": [],
+    "hp.c:138:4": [
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "ns__client_put_cb",
+        "view_loaded",
+        "default_memfree",
+        "resume_processing",
+        "node_destroy"
+    ],
+    "hp.c:213:4": [
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "ns__client_put_cb",
+        "view_loaded",
+        "default_memfree",
+        "resume_processing",
+        "node_destroy"
+    ],
+    "httpd.c:1006:12": [],
+    "httpd.c:1245:4": [],
+    "httpd.c:453:3": [
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "default_memfree",
+        "resume_processing",
+        "node_destroy",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "httpd.c:780:7": [],
+    "httpd.c:994:12": [],
+    "httpd.c:999:12": [],
+    "keytable.c:732:4": [
+        "addifmissing",
+        "dotat"
+    ],
+    "master.c:1013:3": [],
+    "master.c:1120:3": [],
+    "master.c:1126:5": [],
+    "master.c:1172:5": [],
+    "master.c:1175:5": [],
+    "master.c:1189:5": [],
+    "master.c:1196:6": [],
+    "master.c:1206:6": [],
+    "master.c:1216:5": [],
+    "master.c:1223:5": [],
+    "master.c:1228:7": [],
+    "master.c:1237:7": [],
+    "master.c:1240:7": [],
+    "master.c:1260:5": [],
+    "master.c:1266:6": [],
+    "master.c:1291:5": [],
+    "master.c:1312:5": [],
+    "master.c:1315:5": [],
+    "master.c:1320:5": [],
+    "master.c:1326:6": [],
+    "master.c:1336:6": [],
+    "master.c:1345:6": [],
+    "master.c:1350:5": [],
+    "master.c:1355:6": [],
+    "master.c:1386:5": [],
+    "master.c:1390:5": [],
+    "master.c:1418:5": [],
+    "master.c:1438:5": [],
+    "master.c:1443:5": [],
+    "master.c:1447:6": [],
+    "master.c:1450:6": [],
+    "master.c:1555:5": [],
+    "master.c:1572:5": [],
+    "master.c:1591:3": [],
+    "master.c:1600:5": [],
+    "master.c:1607:5": [],
+    "master.c:1628:5": [],
+    "master.c:1644:4": [],
+    "master.c:1654:4": [],
+    "master.c:1676:4": [],
+    "master.c:1696:4": [],
+    "master.c:1720:4": [],
+    "master.c:1752:4": [],
+    "master.c:1775:4": [],
+    "master.c:1807:4": [],
+    "master.c:1839:6": [],
+    "master.c:1848:6": [],
+    "master.c:1890:4": [],
+    "master.c:1913:5": [],
+    "master.c:1929:5": [],
+    "master.c:1944:4": [],
+    "master.c:1957:5": [],
+    "master.c:1969:4": [],
+    "master.c:2037:4": [],
+    "master.c:2046:4": [],
+    "master.c:2103:2": [],
+    "master.c:2178:11": [
+        "openfile_text",
+        "openfile_map",
+        "openfile_raw"
+    ],
+    "master.c:2186:3": [
+        "free_digest",
+        "delete_callback",
+        "rpz_node_deleter",
+        "free_algorithm",
+        "free_nta",
+        "auto_detach",
+        "ttl_sooner",
+        "free_keynode",
+        "resign_sooner",
+        "dlopen_dlz_destroy",
+        "free_tsignode",
+        "auto_detach.11284",
+        "zone_registerinclude",
+        "sooner",
+        "chain_compare"
+    ],
+    "master.c:2260:3": [],
+    "master.c:2279:3": [],
+    "master.c:2339:12": [],
+    "master.c:2521:4": [],
+    "master.c:2643:3": [],
+    "master.c:2654:3": [],
+    "master.c:2681:11": [
+        "openfile_text",
+        "openfile_map",
+        "openfile_raw"
+    ],
+    "master.c:2686:11": [
+        "load_raw",
+        "load_text",
+        "load_map"
+    ],
+    "master.c:2718:11": [
+        "openfile_text",
+        "openfile_map",
+        "openfile_raw"
+    ],
+    "master.c:2755:11": [
+        "load_raw",
+        "load_text",
+        "load_map"
+    ],
+    "master.c:2824:11": [
+        "load_raw",
+        "load_text",
+        "load_map"
+    ],
+    "master.c:2885:11": [
+        "load_raw",
+        "load_text",
+        "load_map"
+    ],
+    "master.c:3101:13": [],
+    "master.c:3104:4": [],
+    "master.c:3109:5": [],
+    "master.c:3113:5": [],
+    "master.c:3179:12": [],
+    "master.c:3185:3": [],
+    "master.c:355:4": [],
+    "master.c:380:5": [],
+    "master.c:817:3": [],
+    "master.c:833:3": [],
+    "master.c:847:3": [],
+    "master.c:882:4": [],
+    "master.c:925:3": [],
+    "master.c:928:3": [],
+    "master.c:952:3": [],
+    "master.c:992:3": [],
+    "masterdump.c:1487:2": [],
+    "masterdump.c:1747:12": [
+        "dump_rdatasets_map",
+        "dump_rdatasets_raw",
+        "dump_rdatasets_text"
+    ],
+    "mem.c:1069:3": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "mem.c:1126:3": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "mem.c:1315:3": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "mem.c:1412:3": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "mem.c:1536:3": [
+        "dumpdone",
+        "water",
+        "dump_done",
+        "water.3675",
+        "set_index",
+        "xfrout_client_shutdown",
+        "set_index.15776",
+        "zone_loaddone"
+    ],
+    "mem.c:2430:10": [
+        "isc___mem_allocate",
+        "isc___mem_get"
+    ],
+    "mem.c:2437:2": [
+        "isc___mem_put",
+        "isc___mem_reallocate"
+    ],
+    "mem.c:2444:2": [
+        "isc___mem_putanddetach"
+    ],
+    "mem.c:2451:10": [
+        "isc___mem_allocate",
+        "isc___mem_get"
+    ],
+    "mem.c:2458:10": [],
+    "mem.c:2465:10": [
+        "isc___mem_free",
+        "isc___mem_strdup"
+    ],
+    "mem.c:2472:2": [
+        "isc___mem_free",
+        "isc___mem_strdup"
+    ],
+    "mem.c:385:11": [
+        "default_memalloc"
+    ],
+    "mem.c:394:4": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "mem.c:402:8": [
+        "default_memalloc"
+    ],
+    "mem.c:494:9": [
+        "default_memalloc"
+    ],
+    "mem.c:576:3": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "mem.c:620:8": [
+        "default_memalloc"
+    ],
+    "mem.c:652:2": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "mem.c:803:3": [
+        "default_memalloc"
+    ],
+    "mem.c:812:4": [
+        "default_memalloc"
+    ],
+    "mem.c:822:20": [
+        "default_memalloc"
+    ],
+    "mem.c:875:3": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "mem.c:896:2": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "mem.c:901:4": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "mem.c:904:3": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "mem.c:907:4": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "mem.c:919:2": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "name.c:1503:11": [],
+    "name.c:2316:10": [
+        "digest_callback"
+    ],
+    "namedconf.c:2742:3": [
+        "parse_logseverity",
+        "cfg_parse_netprefix",
+        "parse_unsupported",
+        "cfg_parse_fixedpoint",
+        "cfg_parse_percentage",
+        "parse_logversions",
+        "parse_optional_enum",
+        "parse_optional_uint32",
+        "parse_netaddr",
+        "parse_ustring",
+        "parse_printtime",
+        "parse_logfile",
+        "parse_sizeval_percent",
+        "parse_optional_facility",
+        "parse_qstringornone",
+        "parse_minimal",
+        "cfg_parse_kv_tuple",
+        "parse_size_or_percent",
+        "parse_server_key_kludge",
+        "parse_boolorauto",
+        "parse_dialup_type",
+        "parse_ixfrratio",
+        "parse_sockaddrnameport",
+        "parse_maxduration",
+        "cfg_parse_enum",
+        "cfg_parse_astring",
+        "cfg_parse_uint32",
+        "parse_addrmatchelt",
+        "cfg_parse_named_map",
+        "parse_token",
+        "parse_keyvalue",
+        "parse_optional_keyvalue",
+        "cfg_parse_tuple",
+        "parse_serverid",
+        "parse_sizeval",
+        "cfg_parse_bracketed_list",
+        "parse_portrange",
+        "parse_size",
+        "cfg_parse_map",
+        "cfg_parse_netprefix_map",
+        "parse_btext",
+        "parse_notify_type",
+        "parse_updatepolicy",
+        "parse_querysource",
+        "cfg_parse_qstring",
+        "parse_zonestat",
+        "parse_dtout",
+        "parse_ixfrdiff_type",
+        "cfg_parse_void",
+        "cfg_parse_sstring",
+        "cfg_parse_sockaddr",
+        "cfg_parse_boolean",
+        "parse_masterselement",
+        "parse_optional_btext",
+        "cfg_parse_mapbody",
+        "parse_optional_class",
+        "cfg_parse_duration"
+    ],
+    "namedconf.c:2775:2": [],
+    "netmgr.c:1114:3": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "netmgr.c:1163:3": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "netmgr.c:1173:4": [
+        "node_destroy",
+        "resume_processing",
+        "default_memfree",
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "view_loaded",
+        "ns__client_put_cb"
+    ],
+    "netmgr.c:1336:2": [],
+    "nsec.c:326:3": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:331:2": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:338:3": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:358:5": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:367:4": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:376:4": [],
+    "nsec.c:381:3": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:395:3": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:402:3": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:414:3": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:424:3": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:430:3": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:453:4": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec.c:459:2": [
+        "validator_log",
+        "fctx_log",
+        "log_noexistnodata"
+    ],
+    "nsec3.c:1986:3": [
+        "validator_log",
+        "fctx_log"
+    ],
+    "nsec3.c:1997:2": [
+        "validator_log",
+        "fctx_log"
+    ],
+    "nsec3.c:2092:4": [],
+    "nsec3.c:2114:6": [
+        "validator_log",
+        "fctx_log"
+    ],
+    "nsec3.c:2123:5": [
+        "validator_log",
+        "fctx_log"
+    ],
+    "nsec3.c:2135:5": [],
+    "nsec3.c:2141:4": [
+        "validator_log",
+        "fctx_log"
+    ],
+    "nsec3.c:2155:4": [
+        "validator_log",
+        "fctx_log"
+    ],
+    "nsec3.c:2175:5": [],
+    "nsec3.c:2183:4": [],
+    "nsec3.c:2205:4": [],
+    "nsec3.c:2222:5": [
+        "validator_log",
+        "fctx_log"
+    ],
+    "openssldh_link.c:256:3": [],
+    "opensslrsa_link.c:443:3": [],
+    "os.c:585:5": [],
+    "os.c:606:5": [],
+    "os.c:615:5": [],
+    "os.c:767:3": [],
+    "os.c:779:3": [],
+    "os.c:785:3": [],
+    "parser.c:165:2": [],
+    "parser.c:173:2": [],
+    "parser.c:216:11": [
+        "parse_logseverity",
+        "cfg_parse_fixedpoint",
+        "parse_logversions",
+        "parse_optional_enum",
+        "parse_optional_uint32",
+        "parse_printtime",
+        "parse_logfile",
+        "parse_updatepolicy",
+        "parse_addrmatchelt",
+        "cfg_parse_map",
+        "parse_sizeval_percent",
+        "cfg_parse_netprefix",
+        "parse_zonestat",
+        "cfg_parse_enum",
+        "parse_netaddr",
+        "parse_unsupported",
+        "parse_sizeval",
+        "cfg_parse_named_map",
+        "parse_server_key_kludge",
+        "parse_notify_type",
+        "cfg_parse_tuple",
+        "parse_serverid",
+        "cfg_parse_qstring",
+        "parse_querysource",
+        "parse_ustring",
+        "cfg_parse_netprefix_map",
+        "parse_btext",
+        "cfg_parse_percentage",
+        "parse_masterselement",
+        "parse_optional_btext",
+        "parse_optional_keyvalue",
+        "parse_keyvalue",
+        "parse_token",
+        "cfg_parse_uint32",
+        "cfg_parse_astring",
+        "cfg_parse_bracketed_list",
+        "parse_portrange",
+        "parse_size",
+        "parse_sockaddrnameport",
+        "parse_maxduration",
+        "parse_ixfrratio",
+        "parse_dialup_type",
+        "cfg_parse_kv_tuple",
+        "parse_minimal",
+        "parse_size_or_percent",
+        "cfg_parse_void",
+        "parse_ixfrdiff_type",
+        "parse_boolorauto",
+        "parse_optional_facility",
+        "parse_qstringornone",
+        "parse_dtout",
+        "cfg_parse_sstring",
+        "cfg_parse_boolean",
+        "cfg_parse_sockaddr",
+        "parse_optional_class",
+        "cfg_parse_duration",
+        "cfg_parse_mapbody"
+    ],
+    "parser.c:247:2": [],
+    "parser.c:2572:3": [
+        "directory_callback"
+    ],
+    "parser.c:3929:3": [
+        "free_tuple",
+        "free_noop",
+        "free_string",
+        "free_list",
+        "free_map"
+    ],
+    "parser.c:3955:2": [
+        "doc_logfile",
+        "doc_printtime",
+        "cfg_doc_mapbody",
+        "doc_serverid",
+        "doc_qstringornone",
+        "doc_optional_bracketed_list",
+        "doc_boolorauto",
+        "doc_parse_size_or_percent",
+        "doc_keyvalue",
+        "doc_optional_facility",
+        "doc_lookaside",
+        "cfg_doc_terminal",
+        "doc_maxduration",
+        "doc_dialup_type",
+        "doc_optional_btext",
+        "doc_minimal",
+        "doc_matchname",
+        "cfg_doc_void",
+        "cfg_doc_sockaddr",
+        "doc_optional_keyvalue",
+        "cfg_doc_netaddr",
+        "doc_updatepolicy",
+        "doc_zonestat",
+        "doc_size",
+        "cfg_doc_bracketed_list",
+        "doc_querysource",
+        "doc_notify_type",
+        "doc_ixfrratio",
+        "cfg_doc_enum",
+        "cfg_doc_kv_tuple",
+        "doc_optional_class",
+        "doc_optional_uint32",
+        "doc_masterselement",
+        "cfg_doc_tuple",
+        "doc_sizeval_percent",
+        "doc_optional_enum",
+        "doc_sockaddrnameport",
+        "cfg_doc_map",
+        "doc_btext",
+        "doc_ixfrdiff_type",
+        "doc_dtout",
+        "doc_logversions"
+    ],
+    "parser.c:4090:12": [
+        "check_one_plugin",
+        "register_one_plugin"
+    ],
+    "pool.c:127:13": [
+        "mctxinit"
+    ],
+    "pool.c:156:4": [
+        "mctxfree",
+        "newzone_cfgctx_destroy"
+    ],
+    "pool.c:78:12": [
+        "mctxinit"
+    ],
+    "query.c:10809:2": [],
+    "query.c:10906:2": [],
+    "query.c:5067:2": [],
+    "query.c:5130:2": [],
+    "query.c:5185:2": [],
+    "query.c:5291:2": [],
+    "query.c:5502:2": [],
+    "query.c:5941:2": [],
+    "query.c:6047:2": [],
+    "query.c:6787:2": [],
+    "query.c:6981:2": [],
+    "query.c:7138:3": [],
+    "query.c:7254:2": [],
+    "query.c:7349:2": [],
+    "query.c:7773:2": [],
+    "query.c:7818:5": [],
+    "query.c:7859:2": [],
+    "query.c:7913:2": [],
+    "query.c:8013:2": [],
+    "query.c:8092:2": [],
+    "query.c:8297:2": [],
+    "query.c:8613:2": [],
+    "query.c:9465:2": [],
+    "query.c:9516:3": [],
+    "query.c:9550:2": [],
+    "query.c:9659:2": [],
+    "query.c:9880:2": [],
+    "radix.c:172:6": [],
+    "radix.c:215:34": [
+        "is_insecure"
+    ],
+    "rbt.c:1705:15": [
+        "cache_zonecut_callback",
+        "zone_zonecut_callback"
+    ],
+    "rbt.c:2082:5": [
+        "auto_detach",
+        "free_tsignode",
+        "free_digest",
+        "rpz_node_deleter",
+        "delete_callback",
+        "free_nta",
+        "free_keynode",
+        "free_algorithm",
+        "zone_registerinclude",
+        "dlopen_dlz_destroy",
+        "chain_compare",
+        "auto_detach.11284"
+    ],
+    "rbt.c:2113:3": [
+        "auto_detach",
+        "free_tsignode",
+        "free_digest",
+        "rpz_node_deleter",
+        "delete_callback",
+        "free_nta",
+        "free_keynode",
+        "free_algorithm",
+        "zone_registerinclude",
+        "dlopen_dlz_destroy",
+        "chain_compare",
+        "auto_detach.11284"
+    ],
+    "rbt.c:2833:5": [
+        "auto_detach",
+        "free_tsignode",
+        "free_digest",
+        "rpz_node_deleter",
+        "delete_callback",
+        "free_nta",
+        "free_keynode",
+        "free_algorithm",
+        "zone_registerinclude",
+        "dlopen_dlz_destroy",
+        "chain_compare",
+        "auto_detach.11284"
+    ],
+    "rbt.c:3072:4": [],
+    "rbt.c:660:3": [
+        "rbt_datawriter"
+    ],
+    "rbt.c:844:3": [
+        "rbt_datafixer"
+    ],
+    "rdata.c:1263:12": [
+        "digest_callback"
+    ],
+    "rdata.c:1950:3": [],
+    "rdata.c:1965:3": [],
+    "rdata.c:1982:3": [],
+    "rdata.c:1999:4": [],
+    "rdata.c:2004:4": [],
+    "rdata.c:2009:4": [],
+    "rdata.c:2016:4": [],
+    "rdata.c:2022:4": [],
+    "rdata.c:2028:3": [],
+    "rdataset.c:111:2": [
+        "isc__rdatalist_disassociate",
+        "question_cursor",
+        "isc__rdatalist_next",
+        "rdataset_expire",
+        "isc__rdatalist_first",
+        "rdataset_first",
+        "rdataset_disassociate",
+        "rdataset_count.6239",
+        "isc__rdatalist_count",
+        "rdataset_first.6235",
+        "rdataset_next.6236",
+        "rdataset_clearprefetch",
+        "disassociate.9021",
+        "rdataset_disassociate.6234",
+        "disassociate",
+        "question_count",
+        "rdataset_next",
+        "question_disassociate",
+        "rdataset_count"
+    ],
+    "rdataset.c:228:10": [
+        "isc__rdatalist_disassociate",
+        "rdataset_first.6235",
+        "rdataset_first",
+        "rdataset_next.6236",
+        "rdataset_disassociate",
+        "rdataset_count.6239",
+        "rdataset_clearprefetch",
+        "isc__rdatalist_next",
+        "isc__rdatalist_count",
+        "rdataset_expire",
+        "isc__rdatalist_first",
+        "question_cursor",
+        "rdataset_disassociate.6234",
+        "disassociate.9021",
+        "question_count",
+        "disassociate",
+        "rdataset_next",
+        "question_disassociate",
+        "rdataset_count"
+    ],
+    "rdataset.c:242:2": [
+        "rdataset_clone.9022",
+        "rdataset_clone.8879",
+        "question_clone",
+        "rdataset_clone.6238",
+        "isc__rdatalist_clone",
+        "rdataset_clone"
+    ],
+    "rdataset.c:254:10": [
+        "rdataset_first.6235",
+        "isc__rdatalist_disassociate",
+        "isc__rdatalist_count",
+        "question_cursor",
+        "isc__rdatalist_next",
+        "rdataset_disassociate",
+        "rdataset_count.6239",
+        "rdataset_expire",
+        "isc__rdatalist_first",
+        "rdataset_first",
+        "rdataset_next.6236",
+        "rdataset_clearprefetch",
+        "rdataset_disassociate.6234",
+        "disassociate.9021",
+        "question_count",
+        "disassociate",
+        "rdataset_next",
+        "question_disassociate",
+        "rdataset_count"
+    ],
+    "rdataset.c:266:10": [
+        "rdataset_first.6235",
+        "isc__rdatalist_disassociate",
+        "isc__rdatalist_count",
+        "question_cursor",
+        "rdataset_expire",
+        "isc__rdatalist_first",
+        "rdataset_first",
+        "rdataset_disassociate",
+        "rdataset_count.6239",
+        "isc__rdatalist_next",
+        "rdataset_next.6236",
+        "rdataset_clearprefetch",
+        "rdataset_disassociate.6234",
+        "disassociate.9021",
+        "question_count",
+        "disassociate",
+        "rdataset_next",
+        "question_disassociate",
+        "rdataset_count"
+    ],
+    "rdataset.c:278:2": [
+        "rdataset_current.6237",
+        "rdataset_current",
+        "question_current",
+        "isc__rdatalist_current"
+    ],
+    "rdataset.c:357:11": [
+        "isc__rdatalist_disassociate",
+        "rdataset_count.6239",
+        "rdataset_disassociate",
+        "rdataset_first.6235",
+        "rdataset_first",
+        "rdataset_next.6236",
+        "rdataset_clearprefetch",
+        "isc__rdatalist_next",
+        "isc__rdatalist_count",
+        "rdataset_expire",
+        "isc__rdatalist_first",
+        "question_cursor",
+        "rdataset_disassociate.6234",
+        "disassociate.9021",
+        "question_count",
+        "disassociate",
+        "rdataset_next",
+        "question_disassociate",
+        "rdataset_count"
+    ],
+    "rdataset.c:424:26": [
+        "query_sortlist_order_2element",
+        "query_sortlist_order_1element"
+    ],
+    "rdataset.c:619:10": [
+        "rdataset_setownercase",
+        "isc__rdatalist_getownercase",
+        "isc__rdatalist_addclosest",
+        "isc__rdatalist_addnoqname",
+        "rdataset_getownercase",
+        "isc__rdatalist_setownercase"
+    ],
+    "rdataset.c:631:10": [
+        "rdataset_getclosest",
+        "rdataset_getnoqname",
+        "isc__rdatalist_getnoqname",
+        "isc__rdatalist_getclosest"
+    ],
+    "rdataset.c:641:10": [],
+    "rdataset.c:653:10": [
+        "rdataset_getclosest",
+        "rdataset_getnoqname",
+        "isc__rdatalist_getnoqname",
+        "isc__rdatalist_getclosest"
+    ],
+    "rdataset.c:662:3": [
+        "rdataset_settrust",
+        "rdataset_settrust.6240"
+    ],
+    "rdataset.c:674:3": [],
+    "rdataset.c:684:3": [
+        "isc__rdatalist_disassociate",
+        "rdataset_count.6239",
+        "rdataset_disassociate",
+        "rdataset_first.6235",
+        "rdataset_first",
+        "rdataset_next.6236",
+        "rdataset_clearprefetch",
+        "isc__rdatalist_next",
+        "isc__rdatalist_count",
+        "isc__rdatalist_first",
+        "rdataset_expire",
+        "question_cursor",
+        "rdataset_disassociate.6234",
+        "disassociate.9021",
+        "question_count",
+        "disassociate",
+        "rdataset_next",
+        "question_disassociate",
+        "rdataset_count"
+    ],
+    "rdataset.c:694:3": [
+        "rdataset_getownercase",
+        "isc__rdatalist_getownercase",
+        "rdataset_setownercase",
+        "isc__rdatalist_addclosest",
+        "isc__rdatalist_addnoqname",
+        "isc__rdatalist_setownercase"
+    ],
+    "rdataset.c:704:3": [
+        "rdataset_getownercase",
+        "isc__rdatalist_getownercase",
+        "rdataset_setownercase",
+        "isc__rdatalist_addclosest",
+        "isc__rdatalist_addnoqname",
+        "isc__rdatalist_setownercase"
+    ],
+    "rdataset.c:747:10": [
+        "rdataset_addglue"
+    ],
+    "rdatasetiter.c:30:2": [
+        "rdatasetiter_destroy",
+        "rdatasetiter_destroy.9014",
+        "rdatasetiter_destroy.8874",
+        "rdatasetiter_destroy.11902"
+    ],
+    "rdatasetiter.c:43:10": [
+        "rdatasetiter_first",
+        "rdatasetiter_next.8876",
+        "rdatasetiter_first.11903",
+        "rdatasetiter_next",
+        "rdatasetiter_next.11904",
+        "rdatasetiter_first.9015",
+        "rdatasetiter_next.9016",
+        "rdatasetiter_first.8875"
+    ],
+    "rdatasetiter.c:54:10": [
+        "rdatasetiter_first",
+        "rdatasetiter_next.8876",
+        "rdatasetiter_first.11903",
+        "rdatasetiter_next",
+        "rdatasetiter_next.11904",
+        "rdatasetiter_first.9015",
+        "rdatasetiter_next.9016",
+        "rdatasetiter_first.8875"
+    ],
+    "rdatasetiter.c:68:2": [
+        "rdatasetiter_current.11905",
+        "rdatasetiter_current",
+        "rdatasetiter_current.9017",
+        "rdatasetiter_current.8877"
+    ],
+    "sdb.c:1115:11": [],
+    "sdb.c:1363:12": [
+        "builtin_create",
+        "dlopen_dlz_create"
+    ],
+    "sdb.c:526:3": [
+        "builtin_destroy"
+    ],
+    "sdb.c:723:12": [],
+    "sdb.c:726:12": [],
+    "sdb.c:739:12": [],
+    "sdb.c:811:12": [],
+    "sdb.c:815:12": [],
+    "sdb.c:828:12": [],
+    "sdlz.c:1100:11": [],
+    "sdlz.c:1174:11": [],
+    "sdlz.c:1572:12": [],
+    "sdlz.c:1614:12": [],
+    "sdlz.c:1641:3": [],
+    "sdlz.c:1678:11": [],
+    "sdlz.c:1707:12": [],
+    "sdlz.c:1772:8": [],
+    "sdlz.c:398:11": [],
+    "sdlz.c:440:2": [],
+    "sdlz.c:577:11": [],
+    "sdlz.c:625:13": [],
+    "sdlz.c:649:12": [],
+    "sdlz.c:792:11": [],
+    "socket.c:1435:2": [
+        "destroy_socketevent",
+        "destroy.14083",
+        "free_sevent"
+    ],
+    "stats.c:137:3": [
+        "rcode_dumpcb",
+        "opcode_dumpcb",
+        "dnssec_dumpcb",
+        "rdataset_dumpcb",
+        "rdatatype_dumpcb",
+        "getcounter",
+        "generalstat_dump"
+    ],
+    "stats.c:376:2": [
+        "rdatasetstats_dump",
+        "rdtypestat_dump"
+    ],
+    "stats.c:452:2": [
+        "dnssecsignstat_dump",
+        "rcodestat_dump",
+        "opcodestat_dump"
+    ],
+    "stats.c:472:2": [
+        "dnssecsignstat_dump",
+        "rcodestat_dump",
+        "opcodestat_dump"
+    ],
+    "stats.c:479:2": [
+        "dnssecsignstat_dump",
+        "rcodestat_dump",
+        "opcodestat_dump"
+    ],
+    "statschannel.c:2401:2": [],
+    "symtab.c:223:4": [],
+    "symtab.c:230:4": [
+        "symtab_undefine",
+        "map_symtabitem_destroy",
+        "freekey"
+    ],
+    "symtab.c:278:3": [],
+    "symtab.c:280:8": [
+        "symtab_clean"
+    ],
+    "symtab.c:95:5": [
+        "symtab_undefine",
+        "map_symtabitem_destroy",
+        "freekey"
+    ],
+    "symtab.c:99:3": [
+        "map_symtabitem_destroy",
+        "freekey",
+        "symtab_undefine"
+    ],
+    "task.c:1152:7": [
+        "run_server",
+        "xfrin_recv_done",
+        "tcp_recv",
+        "req_response",
+        "resquery_response",
+        "control_recvmessage"
+    ],
+    "tcp.c:1018:3": [],
+    "tcp.c:145:3": [],
+    "tcp.c:153:3": [],
+    "tcp.c:518:2": [],
+    "tcp.c:651:4": [],
+    "tcp.c:676:3": [],
+    "tcp.c:781:2": [
+        "dnslisten_acceptcb",
+        "xfrout_senddone",
+        "tcpdnssend_cb",
+        "client_senddone",
+        "ns__client_tcpconn"
+    ],
+    "tcp.c:873:2": [],
+    "tcp.c:894:3": [],
+    "tcp.c:912:3": [
+        "dnslisten_acceptcb",
+        "xfrout_senddone",
+        "tcpdnssend_cb",
+        "client_senddone",
+        "ns__client_tcpconn"
+    ],
+    "tcpdns.c:115:3": [
+        "tcpdnssend_cb",
+        "dnslisten_acceptcb",
+        "client_senddone",
+        "ns__client_tcpconn",
+        "xfrout_senddone"
+    ],
+    "tcpdns.c:177:4": [],
+    "tcpdns.c:452:2": [
+        "tcpdnssend_cb",
+        "dnslisten_acceptcb",
+        "client_senddone",
+        "ns__client_tcpconn",
+        "xfrout_senddone"
+    ],
+    "udp.c:329:2": [],
+    "udp.c:440:3": [],
+    "udp.c:463:2": [],
+    "update.c:1323:6": [
+        "true_p",
+        "rr_equal_p",
+        "type_not_dnssec",
+        "type_not_soa_nor_ns_p"
+    ],
+    "update.c:221:2": [
+        "update_log_cb.10277",
+        "update_log_cb"
+    ],
+    "update.c:332:12": [
+        "rrset_exists_action.9511",
+        "delete_if_action.9520"
+    ],
+    "update.c:380:12": [
+        "foreach_node_rr_action.9514",
+        "name_exists_action.9517",
+        "is_non_nsec_action"
+    ],
+    "update.c:471:12": [
+        "rrset_exists_action.9511",
+        "delete_if_action.9520"
+    ],
+    "update.c:552:12": [
+        "rrset_exists_action",
+        "delete_if_action",
+        "add_rr_prepare_action",
+        "count_rr_action"
+    ],
+    "update.c:613:12": [
+        "foreach_node_rr_action",
+        "cname_compatibility_action",
+        "ssu_checkrule",
+        "name_exists_action"
+    ],
+    "update.c:687:6": [
+        "rrsig_p",
+        "true_p.9465"
+    ],
+    "update.c:726:12": [
+        "count_rr_action",
+        "delete_if_action",
+        "rrset_exists_action",
+        "add_rr_prepare_action"
+    ],
+    "view.c:2095:3": [
+        "mctxfree",
+        "newzone_cfgctx_destroy"
+    ],
+    "view.c:2248:13": [
+        "dns_sdlzfindzone"
+    ],
+    "view.c:598:3": [
+        "ns_hooktable_free",
+        "ns_plugins_free"
+    ],
+    "view.c:601:3": [
+        "ns_hooktable_free",
+        "ns_plugins_free"
+    ],
+    "xfrin.c:1441:4": [
+        "zone_xfrdone"
+    ],
+    "xfrin.c:800:3": [
+        "zone_xfrdone"
+    ],
+    "xfrout.c:1033:5": [
+        "soa_rrstream_destroy",
+        "compound_rrstream_destroy",
+        "axfr_rrstream_destroy",
+        "ixfr_rrstream_destroy"
+    ],
+    "xfrout.c:1098:2": [
+        "compound_rrstream_first",
+        "axfr_rrstream_pause",
+        "compound_rrstream_next",
+        "ixfr_rrstream_next",
+        "axfr_rrstream_first",
+        "axfr_rrstream_next",
+        "ixfr_rrstream_first",
+        "rrstream_noop_pause",
+        "compound_rrstream_pause",
+        "soa_rrstream_next",
+        "soa_rrstream_first"
+    ],
+    "xfrout.c:1165:3": [
+        "soa_rrstream_destroy",
+        "compound_rrstream_destroy",
+        "axfr_rrstream_destroy",
+        "ixfr_rrstream_destroy"
+    ],
+    "xfrout.c:1168:3": [
+        "soa_rrstream_destroy",
+        "compound_rrstream_destroy",
+        "axfr_rrstream_destroy",
+        "ixfr_rrstream_destroy"
+    ],
+    "xfrout.c:1171:3": [
+        "soa_rrstream_destroy",
+        "compound_rrstream_destroy",
+        "axfr_rrstream_destroy",
+        "ixfr_rrstream_destroy"
+    ],
+    "xfrout.c:1447:3": [
+        "ixfr_rrstream_current",
+        "axfr_rrstream_current",
+        "compound_rrstream_current",
+        "soa_rrstream_current"
+    ],
+    "xfrout.c:1532:12": [
+        "compound_rrstream_first",
+        "axfr_rrstream_pause",
+        "compound_rrstream_next",
+        "ixfr_rrstream_next",
+        "axfr_rrstream_first",
+        "axfr_rrstream_next",
+        "ixfr_rrstream_first",
+        "rrstream_noop_pause",
+        "compound_rrstream_pause",
+        "soa_rrstream_next",
+        "soa_rrstream_first"
+    ],
+    "xfrout.c:1579:3": [
+        "compound_rrstream_first",
+        "axfr_rrstream_pause",
+        "compound_rrstream_next",
+        "ixfr_rrstream_next",
+        "axfr_rrstream_first",
+        "axfr_rrstream_next",
+        "ixfr_rrstream_first",
+        "rrstream_noop_pause",
+        "compound_rrstream_pause",
+        "soa_rrstream_next",
+        "soa_rrstream_first"
+    ],
+    "xfrout.c:1617:2": [
+        "compound_rrstream_first",
+        "axfr_rrstream_pause",
+        "compound_rrstream_next",
+        "ixfr_rrstream_next",
+        "axfr_rrstream_first",
+        "axfr_rrstream_next",
+        "ixfr_rrstream_first",
+        "rrstream_noop_pause",
+        "compound_rrstream_pause",
+        "soa_rrstream_next",
+        "soa_rrstream_first"
+    ],
+    "xfrout.c:1637:3": [
+        "axfr_rrstream_destroy",
+        "soa_rrstream_destroy",
+        "compound_rrstream_destroy",
+        "ixfr_rrstream_destroy"
+    ],
+    "xfrout.c:563:15": [],
+    "xfrout.c:572:14": [],
+    "xfrout.c:578:3": [],
+    "xfrout.c:584:15": [],
+    "xfrout.c:597:2": [],
+    "xfrout.c:606:2": [],
+    "xfrout.c:612:2": [],
+    "xfrout.c:613:2": [],
+    "zone.c:11851:11": [
+        "isself"
+    ],
+    "zone.c:17295:2": [],
+    "zone.c:17314:3": [],
+    "zone.c:2168:12": [
+        "dns_sdlzfindzone"
+    ],
+    "zone.c:2187:13": [
+        "dlzconfigure_callback"
+    ],
+    "zone.c:2322:3": [],
+    "zone.c:2731:12": [],
+    "zone.c:2803:11": [],
+    "zone.c:2832:12": [],
+    "zone.c:2902:11": [],
+    "zone.c:2927:12": [],
+    "zone.c:2989:14": [],
+    "zone.c:3030:11": [],
+    "zoneconf.c:149:3": [
+        "dns_zone_setforwardacl",
+        "dns_zone_setupdateacl",
+        "dns_zone_setnotifyacl",
+        "dns_zone_setxfracl",
+        "dns_zone_setqueryonacl",
+        "dns_zone_setqueryacl"
+    ],
+    "zoneconf.c:172:3": [
+        "dns_zone_clearforwardacl",
+        "dns_zone_clearnotifyacl",
+        "dns_zone_clearxfracl",
+        "dns_zone_clearupdateacl",
+        "dns_zone_clearqueryonacl",
+        "dns_zone_clearqueryacl"
+    ],
+    "zoneconf.c:182:2": [
+        "dns_zone_setforwardacl",
+        "dns_zone_setupdateacl",
+        "dns_zone_setnotifyacl",
+        "dns_zone_setxfracl",
+        "dns_zone_setqueryonacl",
+        "dns_zone_setqueryacl"
+    ],
+    "zoneverify.c:1669:2": [
+        "dnssec_report"
+    ],
+    "zoneverify.c:1685:4": [],
+    "zoneverify.c:1688:2": [
+        "dnssec_report"
+    ],
+    "zoneverify.c:1923:4": [
+        "dnssec_report"
+    ],
+    "zoneverify.c:1927:3": [],
+    "zoneverify.c:1932:3": [
+        "dnssec_report"
+    ],
+    "zoneverify.c:1944:2": [
+        "dnssec_report"
+    ],
+    "zoneverify.c:1955:3": [],
+    "zoneverify.c:1959:3": [],
+    "zoneverify.c:2023:3": [
+        "dnssec_report"
+    ],
+    "zoneverify.c:2029:3": [],
+    "zt.c:308:3": [
+        "destroy_listener",
+        "ns__client_reset_cb",
+        "ns__client_put_cb",
+        "view_loaded",
+        "default_memfree",
+        "resume_processing",
+        "node_destroy"
+    ],
+    "zt.c:544:14": [
+        "freezezones",
+        "load",
+        "asyncload",
+        "zone_xmlrender",
+        "synczone",
+        "dialup",
+        "add_zone_tolist",
+        "flush",
+        "removed"
+    ]
+}

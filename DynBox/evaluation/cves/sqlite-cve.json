@@ -1,0 +1,47 @@
+{
+    "vulnerabilities": [
+        {
+            "file": "sqlite3.c",
+            "function": "havingToWhereExprCb",
+            "line": 141933,
+            "requiredCalls": [],
+            "url": "https://sqlite.org/src/info/30a4c323650cc949"
+        },
+        {
+            "file": "sqlite3.c",
+            "function": "multiSelect",
+            "line": 138499,
+            "requiredCalls": [],
+            "url": "https://sqlite.org/src/info/bcd014c473794b09"
+        },
+        {
+            "file": "sqlite3.c",
+            "function": "flattenSubquery",
+            "line": 140117,
+            "requiredCalls": [],
+            "url": "https://sqlite.org/src/info/bcd014c473794b09"
+        },
+        {
+            "file": "sqlite3.c",
+            "function": "sqlite3Select",
+            "line": 142218,
+            "requiredCalls": [],
+            "url": "https://sqlite.org/src/info/bcd014c473794b09"
+        },
+        {
+            "file": "sqlite3.c",
+            "function": "columnTypeImpl",
+            "line": 137397,
+            "requiredCalls": [],
+            "url": "https://sqlite.org/src/info/d2e672203704aa18"
+        },
+        {
+            "file": "sqlite3.c",
+            "function": "sqlite3ColumnsFromExprList",
+            "line": 137731,
+            "requiredCalls": [],
+            "url": "https://sqlite.org/src/info/d2e672203704aa18"
+        }
+    ],
+    "serverFunction": "main"
+}

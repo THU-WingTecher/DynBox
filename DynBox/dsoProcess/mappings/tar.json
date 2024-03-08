@@ -1,0 +1,843 @@
+{
+    "__assert_fail": [
+        0,
+        14,
+        200,
+        202
+    ],
+    "fstatat": [
+        262
+    ],
+    "mknodat": [
+        259
+    ],
+    "__ctype_b_loc": [],
+    "__ctype_get_mb_cur_max": [],
+    "__errno_location": [],
+    "__fpending": [],
+    "__fxstat": [
+        5
+    ],
+    "__fxstatat": [
+        262
+    ],
+    "__isoc99_fscanf": [
+        202
+    ],
+    "__libc_start_main": [
+        2,
+        7
+    ],
+    "__xmknodat": [
+        259
+    ],
+    "__xstat": [
+        4
+    ],
+    "_exit": [
+        231
+    ],
+    "_io_stderr": [],
+    "_io_stdin": [],
+    "_io_stdout": [],
+    "abort": [
+        0,
+        14,
+        200,
+        202
+    ],
+    "abs": [],
+    "access": [
+        21
+    ],
+    "atoi": [],
+    "atol": [],
+    "bindtextdomain": [
+        202
+    ],
+    "bsearch": [],
+    "btowc": [],
+    "calloc": [],
+    "chdir": [
+        80
+    ],
+    "chmod": [
+        90
+    ],
+    "clock_gettime": [
+        96,
+        228
+    ],
+    "close": [
+        0,
+        3,
+        11,
+        13,
+        14,
+        60,
+        96,
+        200,
+        202,
+        228,
+        231,
+        273
+    ],
+    "closedir": [
+        0,
+        3,
+        11,
+        13,
+        14,
+        60,
+        96,
+        200,
+        202,
+        228,
+        231,
+        273
+    ],
+    "creat": [85],
+    "dgettext": [],
+    "dup": [
+        32
+    ],
+    "dup2": [
+        33
+    ],
+    "environ": [],
+    "error": [],
+    "execl": [
+        21,
+        59
+    ],
+    "execlp": [
+        21,
+        59
+    ],
+    "execv": [
+        59
+    ],
+    "execvp": [
+        21,
+        59
+    ],
+    "exit": [
+        0,
+        3,
+        8,
+        11,
+        14,
+        60,
+        96,
+        130,
+        202,
+        228,
+        231,
+        273
+    ],
+    "faccessat": [
+        102,
+        104,
+        107,
+        108,
+        269
+    ],
+    "fchdir": [
+        81
+    ],
+    "fchmod": [
+        72,
+        90,
+        91
+    ],
+    "fchmodat": [
+        268
+    ],
+    "fchown": [
+        72,
+        92,
+        93
+    ],
+    "fchownat": [
+        260
+    ],
+    "fclose": [
+        202, 
+        3
+    ],
+    "fcntl": [
+        0,
+        3,
+        11,
+        14,
+        60,
+        72,
+        96,
+        202,
+        228,
+        231,
+        273
+    ],
+    "fdopen": [
+        72,
+        202
+    ],
+    "fdopendir": [
+        0,
+        3,
+        4,
+        5,
+        11,
+        14,
+        60,
+        72,
+        202,
+        231,
+        262
+    ],
+    "ferror_unlocked": [],
+    "fflush_unlocked": [
+        202
+    ],
+    "fgetfilecon": [
+        0,
+        3,
+        14,
+        19,
+        21,
+        25,
+        28,
+        41,
+        42,
+        46,
+        72,
+        193,
+        200,
+        202
+    ],
+    "fgetxattr": [
+        193
+    ],
+    "fileno": [
+        202
+    ],
+    "flistxattr": [
+        196
+    ],
+    "flockfile": [
+        202
+    ],
+    "fnmatch": [],
+    "fopen": [
+        2,
+        3,
+        16,
+        72,
+        202
+    ],
+    "fork": [
+        14,
+        56,
+        158,
+        186,
+        202
+    ],
+    "fpathconf": [],
+    "fprintf": [
+        202
+    ],
+    "fputc": [],
+    "fputc_unlocked": [],
+    "fputs": [
+        202
+    ],
+    "fputs_unlocked": [
+        202
+    ],
+    "free": [
+        28,
+        202
+    ],
+    "freecon": [],
+    "fseeko": [
+        202
+    ],
+    "fstat": [
+        5
+    ],
+    "fstat64": [
+        5
+    ],
+    "fsync": [
+        0,
+        11,
+        14,
+        60,
+        74,
+        96,
+        200,
+        202,
+        228,
+        231,
+        273
+    ],
+    "ftello": [
+        202
+    ],
+    "ftruncate": [
+        77
+    ],
+    "funlockfile": [
+        202
+    ],
+    "futimens": [],
+    "fwrite": [
+        202
+    ],
+    "fwrite_unlocked": [
+        202
+    ],
+    "getc_unlocked": [],
+    "getcwd": [
+        79
+    ],
+    "getenv": [],
+    "geteuid": [
+        107
+    ],
+    "getgid": [
+        104
+    ],
+    "getgrgid": [
+        0,
+        2,
+        3,
+        11,
+        13,
+        14,
+        60,
+        72,
+        202,
+        231
+    ],
+    "getgrnam": [
+        0,
+        2,
+        3,
+        11,
+        13,
+        14,
+        16,
+        41,
+        42,
+        46,
+        60,
+        72,
+        96,
+        200,
+        202,
+        228,
+        231,
+        273
+    ],
+    "gethostbyname": [
+        0,
+        2,
+        3,
+        11,
+        13,
+        14,
+        16,
+        60,
+        72,
+        202,
+        231
+    ],
+    "getline": [],
+    "getpagesize": [],
+    "getpid": [
+        39
+    ],
+    "getpwnam": [
+        0,
+        2,
+        3,
+        11,
+        13,
+        14,
+        60,
+        72,
+        202,
+        231,
+        232,
+        233,
+        283,
+        286,
+        291
+    ],
+    "getpwuid": [
+        0,
+        2,
+        3,
+        11,
+        13,
+        14,
+        16,
+        41,
+        42,
+        46,
+        60,
+        72,
+        96,
+        200,
+        202,
+        228,
+        231,
+        273
+    ],
+    "gettext": [],
+    "gettimeofday": [
+        4,
+        96,
+        228
+    ],
+    "getuid": [
+        102
+    ],
+    "glob": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        11,
+        13,
+        14,
+        16,
+        41,
+        42,
+        46,
+        60,
+        72,
+        96,
+        102,
+        200,
+        202,
+        217,
+        228,
+        231,
+        273
+    ],
+    "globfree": [],
+    "gmtime": [],
+    "gmtime_r": [],
+    "gnu_dev_major": [],
+    "gnu_dev_makedev": [],
+    "gnu_dev_minor": [],
+    "iconv": [],
+    "iconv_open": [],
+    "ioctl": [
+        16
+    ],
+    "isatty": [
+        16
+    ],
+    "iswalnum": [],
+    "iswctype": [],
+    "iswprint": [],
+    "lgetfilecon": [
+        0,
+        3,
+        14,
+        19,
+        21,
+        25,
+        28,
+        41,
+        42,
+        46,
+        72,
+        192,
+        200,
+        202
+    ],
+    "lgetxattr": [
+        192
+    ],
+    "linkat": [
+        265
+    ],
+    "llistxattr": [
+        195
+    ],
+    "localeconv": [],
+    "localtime": [
+        2,
+        3,
+        5,
+        9,
+        11,
+        202
+    ],
+    "localtime_r": [
+        2,
+        3,
+        5,
+        8,
+        9,
+        11,
+        202
+    ],
+    "lseek": [
+        8
+    ],
+    "lsetfilecon": [
+        0,
+        3,
+        14,
+        19,
+        21,
+        25,
+        28,
+        41,
+        42,
+        46,
+        72,
+        189,
+        192,
+        200,
+        202
+    ],
+    "lsetxattr": [
+        189
+    ],
+    "lstat": [
+        6
+    ],
+    "lstat64": [
+        6
+    ],
+    "malloc": [
+        9,
+        10,
+        11,
+        12,
+        202
+    ],
+    "mbrtowc": [],
+    "mbsinit": [],
+    "memchr": [],
+    "memcmp": [],
+    "memcpy": [],
+    "memmove": [],
+    "memrchr": [],
+    "memset": [],
+    "mkdirat": [
+        258
+    ],
+    "mkdtemp": [
+        83,
+        96
+    ],
+    "mkfifoat": [
+        259
+    ],
+    "mktime": [
+        2,
+        3,
+        5,
+        9,
+        11,
+        202
+    ],
+    "ngettext": [],
+    "nl_langinfo": [],
+    "open": [
+        0,
+        2,
+        9,
+        11,
+        14,
+        20,
+        39,
+        60,
+        72,
+        96,
+        186,
+        200,
+        202,
+        228,
+        231,
+        234,
+        257,
+        273
+    ],
+    "openat": [
+        0,
+        11,
+        14,
+        60,
+        96,
+        202,
+        228,
+        231,
+        257,
+        273
+    ],
+    "pathconf": [],
+    "pipe": [
+        22
+    ],
+    "printf": [
+        5,
+        202
+    ],
+    "program_invocation_name": [],
+    "program_invocation_short_name": [],
+    "putc_unlocked": [],
+    "qsort": [99],
+    "raise": [
+        14,
+        39,
+        186,
+        200,
+        234
+    ],
+    "read": [
+        0,
+        11,
+        14,
+        60,
+        96,
+        200,
+        202,
+        228,
+        231,
+        273
+    ],
+    "readdir": [
+        217
+    ],
+    "readlinkat": [
+        267
+    ],
+    "realloc": [
+        25
+    ],
+    "renameat": [
+        264
+    ],
+    "renameat2": [],
+    "rewinddir": [
+        8,
+        202
+    ],
+    "rpmatch": [],
+    "setenv": [],
+    "setfilecon": [
+        0,
+        3,
+        14,
+        19,
+        21,
+        25,
+        28,
+        41,
+        42,
+        46,
+        72,
+        188,
+        191,
+        200,
+        202
+    ],
+    "setgid": [
+        0,
+        9,
+        11,
+        13,
+        14,
+        20,
+        39,
+        60,
+        96,
+        106,
+        186,
+        200,
+        202,
+        228,
+        231,
+        234,
+        273
+    ],
+    "setlocale": [
+        2,
+        3,
+        5,
+        9,
+        11,
+        202,
+        257
+    ],
+    "setuid": [
+        0,
+        9,
+        11,
+        13,
+        14,
+        20,
+        39,
+        60,
+        96,
+        105,
+        186,
+        200,
+        202,
+        228,
+        231,
+        234,
+        273
+    ],
+    "setxattr": [
+        188
+    ],
+    "sigaddset": [],
+    "sigemptyset": [],
+    "signal": [
+        13,
+        14,
+        202
+    ],
+    "sigprocmask": [
+        14
+    ],
+    "sigwait": [
+        0,
+        11,
+        14,
+        60,
+        96,
+        128,
+        202,
+        228,
+        231,
+        273
+    ],
+    
+    "stat": [
+        4
+    ],
+    "stat64": [
+        4
+    ],
+    "stderr": [],
+    "stdin": [],
+    "stdout": [],
+    "stpcpy": [],
+    "strcasecmp": [],
+    "strcat": [],
+    "strchr": [],
+    "strchrnul": [],
+    "strcmp": [],
+    "strcpy": [],
+    "strcspn": [],
+    "strdup": [],
+    "strerror": [],
+    "strerror_r": [],
+    "strftime": [],
+    "strlen": [],
+    "strncmp": [],
+    "strndup": [],
+    "strnlen": [],
+    "strrchr": [],
+    "strspn": [],
+    "strtoimax": [],
+    "strtok": [],
+    "strtol": [],
+    "strtoul": [],
+    "strtoumax": [],
+    "symlinkat": [
+        266
+    ],
+    "textdomain": [],
+    "timegm": [],
+    "tolower": [],
+    "toupper": [],
+    "towlower": [],
+    "towupper": [],
+    "tzset": [
+        2,
+        3,
+        5,
+        9,
+        11,
+        202
+    ],
+    "umask": [
+        95
+    ],
+    "unlinkat": [
+        263
+    ],
+    "unsetenv": [],
+    "utimensat": [
+        280
+    ],
+    "vasprintf": [
+        202
+    ],
+    "vfprintf": [
+        202
+    ],
+    "vsnprintf": [
+        202
+    ],
+    "waitpid": [
+        0,
+        11,
+        14,
+        60,
+        61,
+        96,
+        202,
+        228,
+        231,
+        273
+    ],
+    "wcrtomb": [],
+    "wctype": [],
+    "write": [
+        0,
+        1,
+        7,
+        11,
+        14,
+        15,
+        17,
+        60,
+        96,
+        200,
+        202,
+        228,
+        231,
+        273
+    ],
+    "sleep": [
+        0,
+        11,
+        14,
+        35,
+        60,
+        96,
+        202,
+        228,
+        231,
+        273
+    ],
+    "snprintf": [
+        202
+    ],
+    "sprintf": [
+        202
+    ]
+}

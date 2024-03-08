@@ -1,0 +1,5 @@
+Results of Chesnut on redis
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 433.0	 282.0	 265.0	 188.0	 1168.0
+Defense Rate, 0.7732142857142857, 0.7704918032786885, 0.6495098039215687, 0.47959183673469385, 0.6767091541135574
+Permitted Syscall Number of Chesnut on redis: 86

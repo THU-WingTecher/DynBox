@@ -1,0 +1,10 @@
+DynBox Whole Life Cycle on nginx
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 292.68	 391.84	 426.4	 246.12	 1357.04
+Defense Rate, 0.8762874251497006, 0.8987155963302752, 0.7301369863013698, 0.6616129032258065, 0.786234067207416
+DynBox Serving Phase on nginx
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 308.6666666666667	 436.0	 438.0	 247.66666666666666	 1430.3333333333333
+Defense Rate, 0.9241516966067864, 1.0, 0.75, 0.6657706093189965, 0.8286983391270761
+Average Permitted Syscall Number of Whole Life Cycle on Application nginx: 76.52
+Average Permitted Syscall Number of Serving Phase on Application nginx: 70.0

@@ -1,0 +1,5 @@
+Results of C2C on httpd-dru
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 510.0	 315.0	 355.0	 158.0	 1338.0
+Defense Rate, 0.9107142857142857, 0.860655737704918, 0.8700980392156863, 0.4030612244897959, 0.7752027809965237
+Permitted Syscall Number of C2C on httpd-dru: 95

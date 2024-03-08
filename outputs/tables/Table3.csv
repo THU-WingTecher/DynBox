@@ -1,0 +1,6 @@
+,Applications,httpd,httpd,nginx,redis,memcached,tar,tar,tar,Average
+,Configuration,Wordpress,Mediawiki,Zend Server,default,Ubuntu Default,-czvf,-xzvf,-test-label
+Permitted Syscall,C2C,97.0%,95.0%,108.0%,82.0%,83.0%,84.0%,94.0%,73.0%,89.5
+Permitted Syscall,DynBox,60.2,60.2,70.0,63.92,54.8,93.24,93.24,93.24,73.61
+Defense Rate,C2C,74.62%,77.52%,70.51%,81.87%,76.59%,79.37%,77.58%,86.91%,78.12
+Defense Rate,DynBox,88.59,88.59,82.87,83.59,86.15,80.61,80.61,80.61,83.95%

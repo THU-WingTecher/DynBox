@@ -1,0 +1,5 @@
+Results of Chesnut on bind
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 486.0	 319.0	 355.0	 179.0	 1339.0
+Defense Rate, 0.8678571428571429, 0.8715846994535519, 0.8700980392156863, 0.45663265306122447, 0.7757821552723059
+Permitted Syscall Number of Chesnut on bind: 97

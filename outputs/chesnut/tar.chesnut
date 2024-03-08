@@ -1,0 +1,5 @@
+Results of Chesnut on tar
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 531.0	 299.0	 237.0	 246.0	 1313.0
+Defense Rate, 0.9482142857142857, 0.8169398907103825, 0.5808823529411765, 0.6275510204081632, 0.7607184241019699
+Permitted Syscall Number of Chesnut on tar: 108

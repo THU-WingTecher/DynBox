@@ -1,0 +1,16 @@
+Applications,Syscall,Payloads,nginx,nginx,httpd,httpd,redis,redis,sqlite,sqlite,memcached,memcached,bind,bind,tar,tar
+,,,nginx,nginx,httpd,httpd,redis,redis,sqlite,sqlite,memcached,memcached,bind,bind,tar,tar
+,,,Temp,DynBox,Temp,DynBox,Temp,DynBox,Temp,DynBox,Temp,DynBox,Temp,DynBox,Temp,DynBox
+Cmd,clone,10.43%,0.36,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Cmd,execve,27.81%,0.36,0.76,0.71,0.71,0.0,0.38,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.03
+Cmd,fork,5.62%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Priviledge,chmod,4.17%,0.0,0.0,1.0,0.86,1.0,0.38,0.0,0.0,1.0,1.0,1.0,0.6,1.0,0.0
+Priviledge,mprotect,11.82%,0.0,0.0,0.0,0.0,0.0,0.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Priviledge,setuid,3.48%,0.0,0.52,0.71,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.03
+Priviledge,setgid,0.93%,0.0,0.52,0.71,0.71,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.6,0.0,0.03
+Priviledge,accept,12.46%,0.0,0.0,1.0,0.43,0.0,0.38,1.0,1.0,0.0,0.45,0.0,0.4,1.0,1.0
+Network,bind,25.96%,0.0,0.0,0.71,0.86,0.0,0.38,1.0,1.0,0.0,0.45,0.0,0.0,1.0,1.0
+Network,listen,24.74%,0.0,0.64,0.71,0.86,1.0,0.38,1.0,1.0,0.0,0.45,0.0,0.4,1.0,1.0
+Network,sendto,13.04%,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.45,0.0,0.0,1.0,1.0
+Network,recvfrom,14.66%,0.0,1.0,1.0,0.86,1.0,1.0,1.0,1.0,0.0,0.45,0.0,1.0,1.0,1.0
+Network,socket,52.84%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.45,0.0,0.0,0.0,0.0

@@ -1,0 +1,51 @@
+{
+    "nginx": {
+        "bcfile": "targets/bcFiles/nginx.bc",
+        "DynLibMapping": "dsoProcess/mappings/nginx.json",
+        "IndirectCalls": "indirectCalls/CallInfo/nginx-indirectCall.json",
+        "vulnerabilities": "evaluation/cves/nginx-cve.json",
+        "evaluationOutput": "outputs/DynBox/nginx-cve.json"
+    },
+    "httpd": {
+        "bcfile": "targets/bcFiles/httpd.bc",
+        "DynLibMapping": "dsoProcess/mappings/httpd.json",
+        "IndirectCalls": "indirectCalls/CallInfo/httpd-indirectCall.json",
+        "vulnerabilities": "evaluation/cves/apache-cve.json",
+        "evaluationOutput": "outputs/DynBox/httpd-cve.json"
+    },
+    "redis": {
+        "bcfile": "targets/bcFiles/redis-server.bc",
+        "DynLibMapping": "dsoProcess/mappings/redis-server.json",
+        "IndirectCalls": "indirectCalls/CallInfo/redis-indirectCall.json",
+        "vulnerabilities": "evaluation/cves/redis-cve.json",
+        "evaluationOutput": "outputs/DynBox/redis-cve.json"
+    },
+    "sqlite": {
+        "bcfile": "targets/bcFiles/sqlite3.bc",
+        "DynLibMapping": "dsoProcess/mappings/sqlite3.json",
+        "IndirectCalls": "indirectCalls/CallInfo/sqlite-indirectCall.json",
+        "vulnerabilities": "evaluation/cves/sqlite-cve.json",
+        "evaluationOutput": "outputs/DynBox/sqlite-cve.json"
+    },
+    "memcached": {
+        "bcfile": "targets/bcFiles/memcached.bc",
+        "DynLibMapping": "dsoProcess/mappings/memcached.json",
+        "IndirectCalls": "indirectCalls/CallInfo/memcached-indirectCall.json",
+        "vulnerabilities": "evaluation/cves/memcached-cve.json",
+        "evaluationOutput": "outputs/DynBox/memcached-cve.json"
+    },
+    "bind": {
+        "bcfile": "targets/bcFiles/named.bc",
+        "DynLibMapping": "dsoProcess/mappings/named.json",
+        "IndirectCalls": "indirectCalls/CallInfo/bind-indirectCall.json",
+        "vulnerabilities": "evaluation/cves/bind9-cve.json",
+        "evaluationOutput": "outputs/DynBox/bind-cve.json"
+    },
+    "tar": {
+        "bcfile": "targets/bcFiles/tar.bc",
+        "DynLibMapping": "dsoProcess/mappings/tar.json",
+        "IndirectCalls": "indirectCalls/CallInfo/tar-indirectCall.json",
+        "vulnerabilities": "evaluation/cves/tar-cve.json",
+        "evaluationOutput": "outputs/DynBox/tar-cve.json"
+    }
+}

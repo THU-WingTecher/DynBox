@@ -1,0 +1,10 @@
+DynBox Whole Life Cycle on bind
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 312.8	 436.0	 415.4	 243.6	 1407.8
+Defense Rate, 0.9365269461077844, 1.0, 0.7113013698630137, 0.6548387096774193, 0.8156431054461183
+DynBox Serving Phase on bind
+Application,	priviledge,	command,	network,	file,	all
+Defense Count:	 312.8	 436.0	 415.4	 243.6	 1407.8
+Defense Rate, 0.9365269461077844, 1.0, 0.7113013698630137, 0.6548387096774193, 0.8156431054461183
+Average Permitted Syscall Number of Whole Life Cycle on Application bind: 65.0
+Average Permitted Syscall Number of Serving Phase on Application bind: 65.0

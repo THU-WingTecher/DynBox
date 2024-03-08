@@ -1,0 +1,7 @@
+nginx analysis time=954ms
+httpd analysis time=697ms
+redis analysis time=688ms
+sqlite analysis time=1342ms
+memcached analysis time=184ms
+bind analysis time=2658ms
+tar analysis time=374ms
